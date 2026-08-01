@@ -38,7 +38,7 @@ nav {
 .nav-inner {
   max-width: 960px;
   margin: 0 auto;
-  height: 56px;
+  height: 64px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -57,7 +57,7 @@ nav {
 }
 
 .brand .logo {
-  height: 36px;
+  height: 48px;
   width: auto;
   object-fit: contain;
 }
@@ -645,7 +645,7 @@ footer a:hover { color: #000; }
   border-top: 1px solid #f0f0f0;
 }
 .nav-menu.open {
-  max-height: 480px;
+  max-height: 720px;
   opacity: 1;
 }
 .nav-menu .menu-inner {
