@@ -636,6 +636,8 @@ footer a:hover { color: #000; }
 
 .nav-menu {
   display: none;
+  position: relative;
+  z-index: 96;
   background: rgba(255,255,255,0.97);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
