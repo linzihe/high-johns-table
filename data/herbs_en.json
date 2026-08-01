@@ -1,0 +1,3349 @@
+[
+ {
+  "name": "Acacia",
+  "latin": "Acacia nilotica",
+  "desc": "Acacia is a small spiny bush that can grow into a small tree that is found in parts of Northern Africa, Asia, and Australia. Acacia aids in promoting peace and harmony and attracting wealth and prosperity. Using acacia in rituals can also help in enhancing psychic abilities and strengthening friendships. Acacia can be combined with sandalwood to create amulets for protection.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Adam and Eve Root",
+  "latin": "Aplectrum hyemale",
+  "desc": "The Adam and Eve root is mainly found in the Eastern United States and Canada. This root is most popular as an herbal component of love spells and charms. However, the Adam and Eve root may also be applied in charms for good luck and fortune. The root may be utilized in rituals for attracting wealth and success and protecting a practitioner from the dangers of the evil eye",
+  "alias": "Adam and Eve's Root",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "好运",
+   "成功"
+  ]
+ },
+ {
+  "name": "Adder’s Tongue",
+  "latin": "Ophioglossum pusillum",
+  "desc": "Adder’s tongue grows in an extensive carpet of leaves covering the lush forest floors of Southern America and the tropics of Africa and Asia. Adder’s tongue is applied in healing emotional, spiritual, and physical wounds. The herb helps in creating a protective environment, deepens your spiritual connection with the supernatural, and can help to enhance your writing abilities when soaked in hot water and drunk as tea. Adder’s tongue thrives amiably in the dark corners of the forest floor and is, therefore, powerful in improving strength and courage. Adder’s tongue can also be used for the rapid healing of wounds.",
+  "alias": "Adder's Tongue",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Agaric",
+  "latin": "Amanita muscaria",
+  "desc": "Agaric is a small colorful mushroom that thrives in the dense forests of Northern Europe. Agaric is used in rituals to enhance fertility and boost the connection a practitioner has with the divine. Agaric, when burnt as an incense, can also help in enhancing dreams. Agaric is a potent poison and must, therefore, be handled with extreme care.",
+  "alias": "",
+  "intents": [
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Agrimony",
+  "latin": "Agrimonia eupatoria",
+  "desc": "Agrimony is a perennial herb that grows in the woods and open fields of Canada, Europe, and the United States. Agrimony is imbued with natural spiritual energies that help to reverse evil spells and cleanse the home and body of any negative spiritual influences. Agrimony also helps in accelerating spiritual healing.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "驱逐",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Alder",
+  "latin": "Alnus serrulata",
+  "desc": "Alder is a hardy woody tree found across all climates from the United States to Asia, Europe, Africa, and even some parts of Australia. Burning the bark of the Alder tree helps in attracting positive spiritual energies. The herbs and twigs are powerful elements un rituals for recovering lost items, attracting success and wealth, and building courage and mental strength. The leaves of the Alder plant can be made into a tea for treating diarrhea, coughs, and toothaches. Alder also helps to ease the pains of childbirth.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "疗愈",
+   "成功",
+   "生育",
+   "灵性",
+   "勇气",
+   "智力"
+  ]
+ },
+ {
+  "name": "Alfalfa",
+  "latin": "Medicago sativa",
+  "desc": "Alfalfa is a deep-rooted plant that is found all over the United States and Canada and grows up to two to three feet tall. Alfalfa is imbued with potent spiritual energies to attract prosperity, fertility, and harmony within the home and family.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "生育",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Alkanet Root",
+  "latin": "Alkanna tinctoria",
+  "desc": "Alkanet is a purple-colored perennial herb that blooms across the fields of the United States and Europe. The spiritual energies flowing within the alkanet root make it effective for cleansing home and dispelling negativity. The root is also used as a cure for snake bites, and the infusion made from it helps to relieve the pain of arthritis.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Alligator Foot",
+  "latin": "",
+  "desc": "The foot of a dead alligator has been a powerful component of the gambler’s mojo bag for decades. The alligator foot is potent in attracting wealth and fortune, drawing luck for gamblers, and generally warding off evil energies.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运"
+  ]
+ },
+ {
+  "name": "Alligator Tooth",
+  "latin": "",
+  "desc": "The tooth of an alligator is also used as a component of mojo and gris-gris bags in hoodoo. An alligator tooth is used as a spiritual element to attract protection, good luck and fortune, and success.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "好运",
+   "成功",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Allspice",
+  "latin": "Pimento officinalis",
+  "desc": "This herb is characterized by its bright red flowers and its distinctive scent that has hints of clove, cinnamon, juniper, and pepper. Also called Jamaican pepper, allspice thrives mainly in the Caribbean Islands and the fields of Southern America. The herb is especially dominant in Jamaica. Allspice is perfect for use in rituals for attracting good luck and protecting a person from physical and spiritual harm. Allspice can also be burnt as an incense to ward off evil energies, and the herb can be used for attracting love.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "好运",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Aloe",
+  "latin": "Aloe vera",
+  "desc": "Aloe vera is a unique plant with thick succulent leaves with sharp spiny outgrowths. Aloe grows up to three feet high and is found in the tropical rainforests of Africa and the dense woodlands of the United States and Europe. Aloe is infused with natural spiritual energies that ensure the protection of the home from evil energies. Aloe can also be deployed in rituals to invite good luck and fortune. Mojo bags containing aloe can help in preventing accidents and easing the pain of loss.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Althea",
+  "latin": "Althea officinalis",
+  "desc": "Althea is a colorful, four-foot-tall herb that is native to Europe but can be cultivated in the United States. Althea is imbued with spiritual energies that help in inviting a love that soothes, commanding protection from physical and spiritual harm, and attracting wealth and fortune. Althea’s natural spiritual essence can also help to attract helpful spirits. The herb can be burnt as incense during rituals to improve psychic abilities",
+  "alias": "Althea officinalis",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Alum",
+  "latin": "",
+  "desc": "Alum is hydrated aluminum sulfate and can be found all over the world. Alum’s natural spiritual energies are associated with purification, making this ubiquitous stone capable of dispelling evil energies from the home and improving psychic abilities. Alum can also be used in mojo bags for boosting love and attraction.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Ammonia",
+  "latin": "",
+  "desc": "Liquid ammonia is a volatile compound that freezes on contact with the skin. This compound can be found anywhere in the world and contains natural spiritual energies that aid in attracting genuine love and attraction. Ammonia is also useful in rituals for attracting wealth and fortune and commanding spiritual protection from evil energies. Ammonia can be used in spells for punishing an evil-doer.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Angelica",
+  "latin": "Angelica archangelica",
+  "desc": "The Angelica herb was originally native to Syria but now grows in the temperate regions of Europe. Angelica contains natural spiritual energies that enhance protection from physical and spiritual harm and help in dispelling negative energies. Angelica can be included in mojo bags for attracting wealth, fortune, and abundance, and burning the herb as incense can help in improving psychic abilities.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Anise",
+  "latin": "Pimpinella anisum",
+  "desc": "Anise is a three-feet tall annual plant that is native to Egypt and the Eastern Mediterranean. Anise is notable for its dazzling white flowers and its characteristic fragrant smell. Anise’s spiritual energies can be harnessed for bringing good luck. When burnt as an incense, the plant can be used to expand your psychic powers and improve your connection with the spiritual realm during rituals. The leaves can also be kept next to your pillow to ensure a good night’s sleep.",
+  "alias": "",
+  "intents": [
+   "好运",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Ants",
+  "latin": "",
+  "desc": "Ants are believed to be a spirit guide in hoodoo; hence, they can be included in rituals for repelling evil energies. Ants are reputed for their communal lives and hence are also valuable components of rituals to ensure strong friendships, peace, and harmony.",
+  "alias": "",
+  "intents": [
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Apple",
+  "latin": "Pyrus malus",
+  "desc": "The apple tree thrives across Europe and the United States. The blossom of the Apple tree is reputable for its incredible smell and its pink and white veins. The blossoms of the Apple tree are powerful components of rituals for attracting love and granting wishes and desires. The blossom of the apple tree can also be used for attracting wealth and good luck and warding off heartbreak and sadness.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "好运"
+  ]
+ },
+ {
+  "name": "Arrowroot",
+  "latin": "Maranta arundinacea",
+  "desc": "Arrowroot is a hardy, tropical tuber that grows primarily in Indonesia. Arrowroot is reputed for its ability to protect the home from evil energies. The tuber can also be cut up and used in charms for inviting good luck, ensuring peace and harmony, and boosting creativity. Arrowroot can also be kept in the home to ensure good health.",
+  "alias": "Arrowroot",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "平和"
+  ]
+ },
+ {
+  "name": "Asafetida",
+  "latin": "Ferula foetida",
+  "desc": "Asafetida is the dried latex collected from the Ferula plant. Asafetida is native to the plains of North Africa, Afghanistan, and Iran, and this ground element possesses spiritual energies that help in attracting love and granting wishes. Asafetida, due to its pungent smell, is also potent in curing blockages of the respiratory tract and also has the ability to exorcise a demon possessing a human.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Ash Tree",
+  "latin": "Fraxinus excelsior",
+  "desc": "Ash is a tall, regal tree with a light gray bark whose trees bloom between April and June. The ash tree grows all over the United States and Canada and is potent in attracting good luck, promoting good health, boosting creativity and knowledge, and promoting peace and harmony.",
+  "alias": "",
+  "intents": [
+   "好运",
+   "疗愈",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Badger Tooth",
+  "latin": "",
+  "desc": "The tooth of a honey badger is a potent good luck charm in hoodoo. This element is, therefore, usually included in the gris-gris bags or mojo bags curated for gamblers and businessmen to invite money, wealth, and luck. The honey badger is found across the United States and Europe; however, the tooth itself can be purchased from reputable online stores.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运"
+  ]
+ },
+ {
+  "name": "Balm of Gilead Buds",
+  "latin": "Commiphora opobalsamum",
+  "desc": "This biblically significant herb is found all through the United States, Europe, and parts of Asia. Balm of Gilead has its leaves bloom from late summer to early fall and is imbued with spiritual energies that help in expelling negative spirits, promoting good sleep, and ensuring safety at home and during travels. The herb can also be used to prepare infusions to strengthen the body system and fight off diseases.",
+  "alias": "Balm of Gilead",
+  "intents": [
+   "驱逐",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Barberry",
+  "latin": "Berberis vulgaris",
+  "desc": "The berries of the Berberis plant are a remarkably potent source of magical power in hoodoo. The Berberis plant grows up to five meters tall and is found in Asia, Africa, Europe, and North and South America. The bright red berries can be dried and used in rituals for attracting love, granting wishes, and attracting wealth and good luck. Barberries are also great at helping to fight diarrhea and stomach upsets. The leaves of the barberry plant should not be consumed, as they are linked to Lyme’s disease.",
+  "alias": "Barberry",
+  "intents": [
+   "爱情",
+   "财富",
+   "好运"
+  ]
+ },
+ {
+  "name": "Basil",
+  "latin": "Ocimum basilicum",
+  "desc": "Basil is found across all tropical regions of the world, from the Americas to Europe, Africa, and the Asia Pacific. It belongs to the mint family. Basil’s leaves are characterized by a very strong minty scent, and the leaves can be dried and kept in the home to protect the home from evil energies, invite good luck, and ensure peace and harmony. Basil can also be taken as an infusion to enhance good health. A basil bath can help to eradicate stress and cleanse off negative energies. Basil tea can also help to treat the symptoms of emphysema and bronchitis.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "净化",
+   "平和"
+  ]
+ },
+ {
+  "name": "Bats and Bullbats",
+  "latin": "",
+  "desc": "Bats are used in hoodoo to expel negative spirits from an environment. Bats can also be used during rituals to help enhance psychic vision. The blood of a bat is sometimes included in mojo bags to enhance supernatural protection and ward off evil spiritual energies.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "驱逐",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Bay",
+  "latin": "Laurus nobilis",
+  "desc": "The bay plant thrives in mild climates and is found in the fields of North America and Europe. The leaves of the bay plant have a strong, distinctive odor, and when tied in a bundle, they can help to protect the home from evil energies, invite good luck, and ensure peace and harmony in the home. Bay leaves can also be burnt as an incense to enhance psychic capabilities during rituals. The scented leaves of the bay plant are also reputable for helping to alleviate pains associated with sprains and dislocations in the limbs when soaked in hot water and prepared as an infusion.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Bayberry",
+  "latin": "Myrica pensylvanica",
+  "desc": "This dense, deciduous plant is native to the Eastern United States and thrives abundantly in the fields of Pennsylvania. Bayberry leaves are perfect for treating sore throats and making ointments to treat wounds and ulcers. The leaves can also be used in rituals for attracting good luck, promoting good health, and boosting creativity and knowledge.",
+  "alias": "Bayberry",
+  "intents": [
+   "好运",
+   "疗愈",
+   "智力"
+  ]
+ },
+ {
+  "name": "Black Beans",
+  "latin": "Phaseolus vulgaris",
+  "desc": "Black beans are common in the Southern United States and other parts of Latin America. Black beans can be used during rituals to help expel negative spirits and evil spiritual forces. Black beans can also be cast on the altar to help enhance a practitioner’s psychic energy.",
+  "alias": "",
+  "intents": [
+   "驱逐",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Black-eyed Peas",
+  "latin": "Vigna unguiculata",
+  "desc": "Black-eyed peas are grown all over the United States, Europe, Asia, and Africa. These rich legumes are famous for their positive spiritual energies and are potent in helping to attract luck and good fortune. Black-eyed peas also help to ensure good health and increase courage and wisdom.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "灵性",
+   "勇气",
+   "智力"
+  ]
+ },
+ {
+  "name": "Bearberry",
+  "latin": "Arctostaphylos uva-ursi",
+  "desc": "Bearberry is a low-growing plant that grows up to a maximum height of 12 inches in the forests and woodlands of the United States and Europe. Bearberries are characterized by bright, red fruits that grow on them and white waxy flowers that bloom between May and June. The leaves of the bearberry flower contain natural spiritual energies that help in protecting the home from evil energies, inviting good luck, and ensuring peace and harmony. The leaves of the bearberry plant can also be made into an infusion to ease kidney and digestion-related pains.",
+  "alias": "Bearberry",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Benzoin",
+  "latin": "",
+  "desc": "Benzoin is the hardened sap or gum that is gotten when the barks of trees of the Styrax family are cut. As a product of the Styrax tree, benzoin carries the spiritual energies of the tree, making benzoin a potent component of rituals for achieving justice, repelling fear, and enhancing natural psychic powers. The styrax tree from which benzoin is derived is popularly found in the Persian Gulf and parts of India, where the gum is popularly used for making perfumes. Benzoin can also be used as incense, which can be burnt to protect a home from negative spiritual energies.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "正义",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Bergamot Orange",
+  "latin": "Mentha citrata",
+  "desc": "The bergamot plant is a hardy perennial that is commonly found in the woodlands, fields, and dense forests of Northern America. Bergamot orange contains spiritual energies that make it potent in rituals for achieving mental clarity and balance, restoring youthfulness, and removing negativity. We can also serve tea made from bergamot plant leaves to relieve headaches, nausea, and menstrual pain.",
+  "alias": "Bergamot Orange",
+  "intents": [
+   "疗愈",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Bittersweet",
+  "latin": "Celastrus scandens",
+  "desc": "Bittersweet is a rambling woody vine that is native to the central and eastern United States. Bittersweet contains natural spiritual energies that help to fill the home with peace, attract great friends, and provide protection from negative spiritual forces.",
+  "alias": "Bittersweet",
+  "intents": [
+   "保护",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Bitter Weed",
+  "latin": "Hymenoxys odorata",
+  "desc": "Bitterweed is a flowering plant of the daisy family that is predominant in Southwestern and Central America. Bitterweed would commonly be found in fields in California, Texas, Kansas, and Colorado. The plant grows up to 2 feet tall and is historically used in the cure of colds, coughs, and fever. Magically, the spiritual energies of bitter weed make it potent for inviting forgiveness, cleansing and protecting the home and its occupants, and protecting an individual from the forces of evil.",
+  "alias": "Bitter Weed",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Blackberry",
+  "latin": "Rubus villosus",
+  "desc": "The blackberry plant thrives throughout the United States and Europe, and the fruits and leaves bloom best between April and July. Blackberry plant’s leaves can be made into infusions to treat hemorrhoids and diarrhea. The infusion is also useful in the treatment of acne. For magical uses, blackberry leaves can be used for inviting joy, happiness, and peace of mind and enhance a practitioner’s connection to the divine.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "灵性",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Black Cat Bone",
+  "latin": "",
+  "desc": "The black cat bone is primarily a lucky charm that is frequently included in mojo and gris-gris bags carried by gamblers. The black cat bine is believed to contain spiritual energies that help to attract good luck, success, and wealth.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "成功",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Black Cat Hair",
+  "latin": "",
+  "desc": "Ten pieces of hair plucked from the fur of a black can be used for potent charms to attract a lover, keep a spouse or lover, or settle disputes and conflicts between lovers. We can also use Black cat hair to aid natural instincts, strengthen a person’s natural psychic powers, and enhance divinations.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Black Cow’s Milk",
+  "latin": "",
+  "desc": "The fresh milk collected from a black cow is frequently used to placate spirits and ward off the forces of evil from a dwelling or from the life of an individual. Black cow’s milk can also be used to ensure protection from unforeseen problems and facilitate healing and wholeness in a sick individual.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Black Dog Hair",
+  "latin": "",
+  "desc": "The Black Dog hair is a special ingredient for causing conflict. This element is therefore frequently used in rituals to cause quarrels and enmity between partners or spouses. Black dig hair can also be used to curse a person or place a hex on them.",
+  "alias": "",
+  "intents": [
+   "驱逐"
+  ]
+ },
+ {
+  "name": "Black Hen’s Egg",
+  "latin": "",
+  "desc": "The egg of a black hen is used in the cleansing and purification of the body from negative spiritual energies. The black hen’s egg can also be placed in the home to ward off harmful vibrations from home, boost fertility, and invite good health and wholeness",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Black Hen Feathers",
+  "latin": "",
+  "desc": "The feathers of a black hen are used to deepen spiritual awareness, provide physical protection, and help people overcome grief and pain.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Black Pepper",
+  "latin": "Piper nigrum",
+  "desc": "Black pepper is commonly grown in Southern India and China. Black pepper grows up to twelve feet and is a perennial plant. Black pepper is used to relieve constipation and to cure Urinary Tract Infections. Magically, black pepper is used for placing curses and hexes on enemies, repelling negative spiritual energies, enhancing psychic connections and divination powers, and protecting the body and home from evil forces.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "驱逐",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Black Root",
+  "latin": "Veronicastrum virginicum",
+  "desc": "Blackroot grows abundantly in the United States and Canada and is medicinally used in the treatment of constipation, liver ailments, and infections of the gallbladder. This seven-foot-tall herb can also be utilized magically in the invitation of fortune and abundance and protection of the home from negative spiritual energies.",
+  "alias": "Black Root",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Black Snakeroot",
+  "latin": "",
+  "desc": "( Cimicifuga racemosa ): Also known as black cohosh, black snakeroot grows in stout, blackish rhizomes in North America, specifically Canada and the United States. The plant thrives in June and early July. Black cohosh is a powerful antidote against poisons and snakebites and is also used in the mitigation of menopausal symptoms. Black cohosh is magically utilized for attracting good luck and abundance, boosting happiness and mental clarity, and attracting peace and tranquility.",
+  "alias": "Black Snakeroot",
+  "intents": [
+   "财富",
+   "好运",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Blessed Thistle",
+  "latin": "",
+  "desc": "( Cnicus benedictus ): Blessed Thistle is a two-foot-high shrub found primarily in Southern Europe and Asia. This plant is also found in specific regions near the Mediterranean. Blessed Thistle blooms best between May and July, and the leaves are used for purifying the blood and improving circulation, improving memory and recollection abilities, and stimulating milk production in lactating mothers. Magically, a blessed thistle is useful in sanctifying the hoodoo altar, dispelling negative energies and vibrations, and attracting love and passion.",
+  "alias": "Blessed Thistle",
+  "intents": [
+   "爱情",
+   "净化",
+   "智力"
+  ]
+ },
+ {
+  "name": "Blood Root",
+  "latin": "Sanguinaria canadensis",
+  "desc": "Bloodroot is a perennial herb that grows primarily in Eastern Asia. In folk medicine, bloodroot is used for the treatment of fever, diarrhea, and tooth pain. In hoodoo folk practice, bloodroot helps in inviting all-round protection, attracting genuine love and happiness, and protecting the home from the forces of evil.",
+  "alias": "Blood Root",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈"
+  ]
+ },
+ {
+  "name": "Blueberry",
+  "latin": "Vaccinium frondosum",
+  "desc": "Blueberries grow abundantly in the United States and other parts of North America. The leaves of the blueberry plant can be made into an infusion to help lower blood cholesterol levels, control obesity, and combat urinary tract infections. Blueberries are also used in hoodoo magic practice for attracting wealth and good luck, preventing diseases and illnesses, and summoning protection from the evil eye.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "疗愈"
+  ]
+ },
+ {
+  "name": "Blue Cohosh",
+  "latin": "Caulophyllum thalictroides",
+  "desc": "Blue cohosh is a perennial woodland herb that grows in the Southwestern and Eastern United States. Blue cohosh is used to help relieve menstrual pain and ease the pains of labor. Blue cohosh must, however, be avoided by pregnant women. In folk magic practices, blue cohosh is used for attracting money, wealth, and ease, enhancing an individual’s natural mental capabilities, and enhancing divination and psychic connections.",
+  "alias": "Blue Cohosh",
+  "intents": [
+   "财富",
+   "疗愈",
+   "生育",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Blue Flag",
+  "latin": "Iris versicolor",
+  "desc": "Blue flag is a perennial herb that grows primarily in North America. An infusion made from the blue flag herb can be used in the treatment of wounds, colds, earaches, and even cholera. In folk magic practices, spiritual energies of the blue flag herb are harnessed for granting wishes and secret desires, providing protection from negative spiritual influences, and enhancing psychic clarity.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Bluestone",
+  "latin": "Copper Sulphate",
+  "desc": "Bluestone is primarily used to aid stability and focus. Copper sulfate is available all over the world, from Africa and Asia to Europe, Australia, and the Americas. Copper sulfate can be placed on the altar during hoodoo rituals to enhance psychic clarity and improve connections with the divine during divination practices.",
+  "alias": "",
+  "intents": [
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Boldo",
+  "latin": "Peumus boldus",
+  "desc": "Boldo is a unique, unusual herb with bright white and yellow flowers that thrives primarily in the fields of Central Chile. Boldo is used to ease spasms of the Gastrointestinal tract and cure diarrhea. Infusion made from boldo plant leaves are also used to mitigate the pains of rheumatism and to eradicate bladder infections. In folk magic practice, the boldo plant is used for facilitating healing and wholeness and filling the home with peace.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "平和"
+  ]
+ },
+ {
+  "name": "Boneset",
+  "latin": "Eupatorium perfoliatum",
+  "desc": "This North American herb grows up to three feet tall when fully matured and is used in fold medicine for the treatment of fevers and for accelerating the healing of broken bones. In magical spiritual practices, boneset is used to promote rapid healing from physical and spiritual hurt. The herb also contains potent spiritual energies for increasing fertility and enhancing good health and vigor.",
+  "alias": "Boneset",
+  "intents": [
+   "疗愈",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Borage",
+  "latin": "Borago officinalis",
+  "desc": "Borage is a hardy annual plant that is native to the Middle East but is now commonly grown in the United States. The leaves of the borage plant bloom best between March and June, and they can be collected and made into an infusion which is potent in reducing eye irritation. In folk magic practice, borage helps to enhance psychic clarity, imbues an individual with protection, and generally helps a practitioner feel safe and secure.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Boric Acid",
+  "latin": "",
+  "desc": "Boric acid is popular as a potent disinfectant and is popularly utilized in folk magic practices for the treatment of vaginal infections. In folk magic practice, boric acid is used to eradicate negative vibrations and spiritual energies from an environment, attract love and passion and protect an individual from physical harm and disease. Boric acid can also be used in spells to improve fertility and aid conception.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Broom",
+  "latin": "",
+  "desc": "Brooms are agents of discord in hoodoo. A broom can be used n spells to protect a home from negative spiritual energies and prevent harmful spiritual vibrations from entering the home in the future. Brooms are also employed to place curses and hexes on people leading to misfortune, illnesses, and even in severe cases, death. Brooms are also utilized for sowing seeds of enmity and discord and may be used to break up partners or make a relationship go sour.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "驱逐",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Buchu",
+  "latin": "Agathosma betulina",
+  "desc": "Buchu is a flowering herb that thrives primarily in South Africa. The leaves of the Buchu plant are collected between Late May to early July and can be used to cure Urinary Tract infections and bladder ailments. In folk magic practice, Buchu can be used to help bring balance to relationships, provide protection from physical and spiritual harm, and boost fertility.",
+  "alias": "Buchu",
+  "intents": [
+   "保护",
+   "疗愈",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Buckeye",
+  "latin": "Aesculus glabra",
+  "desc": "Buckeye is a hardy perennial herb that is native to the woodlands of North America. The buckeye tree grows abundantly in Ohio and Mississippi and reaches lengths of up to fifty feet in some parts. The oil from the nuts of the buckeye tree can be collected and rubbed on painful joints to relieve the pain. The oil is also used to relieve headaches and rheumatism. In folk magic, the buckeye is used for bringing good luck, enhancing sexual performance, and protecting the home from negative spiritual energies.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Burdock",
+  "latin": "Arctium lappa",
+  "desc": "Burdock is a biennial herb that thrives primarily in Europe and North America. An infusion made from the burdock leaves can be used to treat arthritis and facilitate the healing of wounds and ulcers. In folk magic practices, the leaves of the burdock plant are used to purify the soul and the home and to bless the altar to improve psychic visions and divination practices.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Butterfly Weed",
+  "latin": "Asclepias tuberosa",
+  "desc": "Butterfly weed is a colorful plant with bright yellow flowers and nectar that attracts butterflies. This plant thrives in the East and the Northwest United States and grows up to two feet tall. The infusion made from the leaves of this herb can be used to treat pleurisy and [other respiratory elements. In folk magic practice, butterfly weed is used to invite happiness and joy into a home, enhance safety from negative spiritual forces, and invite wealth, success, and good luck.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "成功",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Button Snake Root",
+  "latin": "Eryngium yuccifolium",
+  "desc": "The button snakeroot is a perennial North American herb. The herb’s leaves can make infusions for improving the efficacy of the kidneys and the sex organs. The button snakeroot is also used as a natural antidote for snake poison. The button snakeroot is also used in magical folk practices to attract wealth and good luck, enhance divination and psychic abilities, and protect an individual and a home from negative spiritual forces.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Cactus",
+  "latin": "Trichocereus pachanoi",
+  "desc": "Cactus is used in folk spiritual practices to place curses and spells on enemies, protect the home from negative energies, bring good luck and abundance, and heal the mind, body, and spirit. Cactus is native to the hot, harsh deserts of North Africa and the Middle East. Cactus may, however, also be found in North America, especially in areas such as Arizona, Colorado, and Texas. Cactus is used in folk medicine to treat high blood pressure, nervous disorders, and cardiac disease.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "疗愈",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Calamus",
+  "latin": "Acorus calamus",
+  "desc": "Calamus root is used in folk magic practices to attract good luck and abundance, attract healing of the mind and body, and protect an individual and home from negative spiritual forces. Calamus root grows all over Europe, Japan, Northern Asia, and the United States. Calamus root is used in folk medicine to treat sore throats and indigestion.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "疗愈",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Calendula",
+  "latin": "Calendula officinalis",
+  "desc": "Marigold, also known as calendula, is used in hoodoo magic to help grant wishes and dreams, provide spiritual protection for an individual, and repel negative and harmful spiritual energies. Calendula blooms all through the summer and is found all over the United States, Europe, and Canada. In folk medicine, calendula is used to heal varicose veins and chronic ulcers. The flower of the calendula plant can be rubbed on a wasp bite to relieve the victim of the pain and accelerate healing.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Camphor",
+  "latin": "Cinnamomum camphora",
+  "desc": "Camphor is an organic compound extracted from the wood of the camphor tree that is used by hoodoo practitioners to attract good luck and abundance and invite peace and tranquility. Camphor can also be used to ward off negative spiritual energies and enhance divination and psychic clarity. Camphor trees thrive all over the United States, with marked presence in Florida, Georgia, and Western Texas. In folk medicine, camphor is used to treat parasitic infections and reduce the pain of toothaches.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Caraway",
+  "latin": "Carum carvi",
+  "desc": "Caraway seeds are used by folk magic practitioners to prevent children from getting sick, ensure fidelity between a couple, and ward off negativity from the life and dwellings of a person. Caraway plants are biennial herb and can grow up to two feet tall and blooms in Central Europe and Asia. Caraway seeds are used in folk medicine to relieve colic in babies, ease indigestion, and cure earaches.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "生育"
+  ]
+ },
+ {
+  "name": "Cardamom",
+  "latin": "Elettaria cardamomum",
+  "desc": "Cardamom seeds are by hoodoo practitioners to improve the male libido, enhance the passion in a relationship, and attract genuine love and affection from a partner. Cardamom plants are large perennial herbs with thick fleshy roots that are native to Southern India. Cardamom is used in folk medicine to relieve indigestion, cure bad breath, and relieve the pain of headaches.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "性"
+  ]
+ },
+ {
+  "name": "Cascara Sagrada",
+  "latin": "Rhamnus purshiana",
+  "desc": "The bark of the Cascara Sagrada tree is used by hoodoo practitioners to help individuals gain favor in courts of law, settle disputes, and emerge unscathed from perilous situations. The bark is also used to invite protection and attract abundance into a person’s life. The Cascara Sagrada tree is native to the Pacific Northwest and blooms best in fields of Idaho, Oregon, and Washington. The Cascara Sagrada bark can be boiled and used as a mild laxative to relieve constipation. It can also be",
+  "alias": "Cascara Sagrada",
+  "intents": [
+   "保护",
+   "财富",
+   "正义"
+  ]
+ },
+ {
+  "name": "Catnip",
+  "latin": "Nepeta cataria",
+  "desc": "Catnip is used by hoodoo practitioners to invite love and happiness into an individual’s life, enhance a person’s youthfulness and good looks, and dispel negative spiritual energies and vibrations. Catnip has strong-smelling leaves, grows up to two feet high, and blooms in Southern Europe and North America. The leaves of the catnip plant can be made into an infusion for the treatment of fevers and sleep disorders.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Cat’s Eye Shell",
+  "latin": "",
+  "desc": "Cat’s eye shell is a native term used for the operculum of the shell of the sea snail Turbo smaragdus. The term ‘cat’s eye shell’ was adopted because of the similarity of the shell to the eyes of a cat. Cat’s eye shells are used by hoodoo practitioners to channel spiritual energies in spells for good luck and fortune, healing, and protection from negative spiritual forces. The sea snail is found in coastal areas of the United States, Europe, Asia, and Africa.",
+  "alias": "Cat’s Eye Shell",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Cedar",
+  "latin": "Cedrus libani",
+  "desc": "Cedar is used by hoodoo practitioners to dispel negative spiritual energies from the life of an individual or from a home or space. Cedar is also used to enhance psychic abilities and reduce the incidence of nightmares. The herb is also a critical natural element of spells to attract love and deepen the passion in a relationship. Cedar is a coniferous species found in North America, Asia, and Europe. The oil collected from the leaves of the cedar plant may be combined with beeswax to help combat the pains of rheumatism and arthritis and to relieve the pains of bruises.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Celandine",
+  "latin": "Chelidonium majus",
+  "desc": "Celandine is utilized in herbal magic to help a victim get out of an abusive relationship, dispel the negative spiritual energies that cause depression, and ensure success in legal cases. Celandine is an aggressive weed that grows in moist habitats all over Europe and North America. In folk medicine, celandine can be used to treat eczema, acne, and other skin disorders. It is also used to cure liver and gall bladder disorders.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "成功",
+   "正义",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Celery",
+  "latin": "Apium graveolens",
+  "desc": "Celery is used by hoodoo practitioners to help to improve sleep quality and cure insomnia. This hardy plant is also used in spells to boost concentration, focus, and psychic abilities to ensure seamless connections with the spiritual realm. Celery is native to the Mediterranean region but is now grown all over the United States, Canada, and Europe. Celery is included as a component of a lot of plant-based foods and is useful in cleansing the body of toxins, easing indigestion, and curing Urinary Tract Infections.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Chamomile",
+  "latin": "Anthemis nobilis",
+  "desc": "Chamomile is popular across numerous folk magic practices as an herb that helps to relieve stress. In hoodoo, chamomile baths are useful for cleansing away negative spiritual energies, attracting love and affection, and inviting abundance and wealth. Chamomile leaves can also be made into an infusion that can help to improve confidence, strength, and vigor. Chamomile is a perennial herb with feathery leaves and bright yellow and white flowers that bloom brilliantly between April and July. Chamomile is used in folk medicine to eradicate insomnia, cure depression, and ease indigestion.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "净化",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Cherry",
+  "latin": "Prunus avium",
+  "desc": "The cherry plant is used in hoodoo magic to attract love, improve spiritual awareness, and increase male and female fertility. The sweet-smelling cherry plants grow throughout the United States and Europe and are utilized in folk medicine to reduce the pain from inflammations and improve sleep quality.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "生育",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Chia Seed",
+  "latin": "Salvia hispanica",
+  "desc": "The seeds of the chia plant are used in hoodoo to protect an individual and a household from negative spiritual energies and cleanse a home of negative spiritual energies. The seeds may also be used in rituals to attract wealth and abundance. The chia plant is native to Central and Southern Mexico and also grows in parts of Guatemala. Chia seeds are used in folk medicine to help obese people lose weight and heal cardiac diseases.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Chickweed",
+  "latin": "Stellaria media",
+  "desc": "Chickweed is used in folk magic practices to attract love and affection, increase fertility and improve psychic clarity for clearer divinations and connections to the spiritual realm. Chickweed is a hardy annual herb found in the Central United States and Europe. In folk medicine, a poultice made from chickweed can be wrapped in muslin and used to treat external abscesses. Chickweed infusions are also used in the treatment of sore throat, colds, and coughs.",
+  "alias": "Chickweed",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Chicory",
+  "latin": "Cichorium intybus",
+  "desc": "The leaves of the chicory plant are used in the magical hoodoo practice to eradicate obstacles from an individual’s bath, open closed doors, and ensure the achievement of even the most difficult desires. Chicory is a perennial herb with strong tap roots that bloom from July to September in the United States and Europe. Chicory leaves are used to make infusions used to treat constipation and indigestion.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "成功"
+  ]
+ },
+ {
+  "name": "Cinnamon",
+  "latin": "Cinnamomum zeylanicum",
+  "desc": "Cinnamon is used in hoodoo herbal magic to attract success and wealth, effect change and transformation, and protect an individual from negative spiritual forces. Cinnamon is native to Ceylon and India but thrives abundantly in parts of Jamaica, Mexico, and Tropical Africa. Cinnamon trees grow up to thirty feet tall, and the bark can be stripped and burnt as incense to charge the positive spiritual vibrations in a space prior to a ritual. Cinnamon leaves can be made into an infusion to cure vomiting, indigestion, and diarrhea. The infusion can also be used to prevent infections of wounds and sores.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "成功",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Citronella",
+  "latin": "Cymbopogon nardus",
+  "desc": "Citronella is the essential oil extracted from the Cymbopogon plant. Citronella oil is used in hoodoo folk magic practices to invite abundance and prosperity, accelerate physical and spiritual healing, and ward off worry and apprehension. The Cymbopogon plant is a hardy perennial grass native to South Asia but also grows in parts of Europe and North America. Citronella is used in folk medicine to heal wounds and cure parasitic infections.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Four-leaf Clover",
+  "latin": "",
+  "desc": "( Trifolium repens ): The four-leaf clover is an extremely rare variation of the more common three-leaf clover plant. The four-leaf clover’s rarity and uniqueness are extremely remarkable, and the leaves of the plant are used in traditional folk magical practices to attract good luck, wealth, success, and money. The four-leaf clover originates from Europe but can grow in parts of North America and Southeast Asia. Folk medicine practitioners used the herb to heal sores, fevers, and Urinary Tract Infections.",
+  "alias": "Four-leaf Clover",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "成功"
+  ]
+ },
+ {
+  "name": "Red Clover",
+  "latin": "Trifolium pratense",
+  "desc": "The red clover herb is native to the fields of Europe, Northern Africa, and Western Asia. The red clover plant is used in hoodoo herbal magic to enhance natural psychic capabilities, invite good health and wellness, and attract genuine love and passion. In folk medicine, the leaves of the red clover herb are used to treat the symptoms of menopause and relieve pains in the bones and joints.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "White Clover",
+  "latin": "Trifolium repens",
+  "desc": "White clover is the more common form of the four-leaf clover, and it is characterized by its distinctive white flowers. White clover is native to Europe and the British Isles and also grows in Northern America and South Asia. The white clover herb is used in traditional hoodoo magic for attracting wealth and good luck and inviting love and passion. The leaves of the white clover are also used to make infusions to cure fevers and heal urinary tract infections.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "好运",
+   "疗愈"
+  ]
+ },
+ {
+  "name": "Cloves",
+  "latin": "Syzygium aromaticum",
+  "desc": "Cloves are used in hoodoo herbal folk magic to attract abundance, love, and passion and dispel negativity and evil gossip. The clove tree originated from the Molucca Islands but is now grown all over the United States, Europe, and Canada. Cloves are used in herbal folk magic to relieve indigestion and nausea and reduce the pains of toothaches. Cloves may also be burnt as incense to attract positive spiritual vibrations and improve psychic capabilities.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Cocoa",
+  "latin": "Theobroma cacao",
+  "desc": "The seeds and leaves of the cocoa tree are used in hoodoo magical practice to invite good luck, attract peace and tranquility into the life and home of a person. The cocoa tree is native to the tropical forests of West Africa and Europe, and North America. The perennial tree produces large pods which contain seeds that are used in folk medicine to relieve the pain of respiratory ailments and cure intestinal pain.",
+  "alias": "",
+  "intents": [
+   "好运",
+   "疗愈",
+   "平和"
+  ]
+ },
+ {
+  "name": "Coffee",
+  "latin": "Coffea arabica",
+  "desc": "Coffee is a popular commodity crop whose seeds are used in making one of the most popular stimulating beverages in the world. In hoodoo, the leaves and seeds of the coffee tree are used to attract abundance and wealth and dispel negative energies and spiritual forces from premises or environment. Coffee originates from the tropical rainforests of Africa and Asia but is now grown in parts of the United States and Europe. The seeds of the coffee tree have been historically used in folk medicine to relieve stress, anxiety, and depression.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Coffin Nails",
+  "latin": "",
+  "desc": "The nails used in the construction of a coffin can be removed and used for a variety of uses. The nails of a coffin symbolize death and darkness and are used in spells to separate a coupe or cause conflict or quarrels. Coffin nails may also be used to place a curse or a hex on an enemy. Some hoodoo practitioners also use coffin nails to create protection spells to repel negative spiritual forces and enhance natural psychic abilities.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "驱逐",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Coltsfoot",
+  "latin": "Tussilago farfara",
+  "desc": "Coltsfoot is used in traditional hoodoo magic to attract peace and tranquility and to improve the quality of psychic visions for divination purposes. Coltsfoot grows in most parts of Europe, North America, and Southeast Asia and has bright yellow flowers shaped like a horse’s hoof. In traditional folk medicine, the leaf of this herb is used to treat cough, colds, and asthma.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Comfrey",
+  "latin": "Symphytum officinale",
+  "desc": "Comfrey is used in traditional hoodoo magic to ensure safety and comfortability during travels. Hoodoo practitioners and believers often include the leaves of these plants in their traveling bags or luggage to protect their belongings and ensure safe journeys. The comfrey plant is also used in hoodoo magic to attract wealth, abundance, protection, and good luck. The Comfrey plant is native to North America, Europe, and temperate Asia. The plant can grow up to three feet high, and the leaves are often covered with fuzzy hairs. The leaves of the comfrey plant are used to make infusions that are used in treating whooping cough and lung diseases. This infusion can also be used to help heal boils, abscesses, and external wounds.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "疗愈"
+  ]
+ },
+ {
+  "name": "Cotton",
+  "latin": "Gossypium barbadense",
+  "desc": "The popular cotton plant is used in hoodoo folk magic to repel negativity, attract good luck, and aid spiritual cleansing and healing. Cotton originated from Asia Minor but is now grown in the United States, Egypt, India, and the Mediterranean. The cotton plant can grow up to six feet tall, and the seeds produce the hair-like cotton balls that are processed into fabrics. In folk medicine, the seeds of the cotton plant can be sued to ease the pains of childbirth and stimulate milk production in lactating mothers.",
+  "alias": "",
+  "intents": [
+   "好运",
+   "疗愈",
+   "净化",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Copal",
+  "latin": "Protium copal",
+  "desc": "Copal, in this case, refers to the aromatic resin gotten from the Protium tree. Copal is used in traditional hoodoo folk magic to attract peace and tranquility into the home, strengthen relationships and friendships, and ensure safety and protection from negative spiritual forces. The resin is also commonly burned as an incense to invite positive spiritual energies and enhance psychic clarity during divination processes. The copal tree is native to East Africa and is also currently grown in Mexico and Central America. The copal resin can be used to help improve sleep disorders and relieve the symptoms of cough and cold.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Coral Root",
+  "latin": "Corallorhiza trifida",
+  "desc": "The coralroot plant is used in hoodoo traditional practices to achieve mental clarity and balance, restore youthfulness, and protect an individual from negative spiritual forces. Coralroots are native to North America, where they grow as parasitic plants on specific fungi hosts. Coralroot is used in folk medicine as an infusion to cure fungal skin diseases such as ringworm. The infusion of coralroot’s dried leaves can also help to relieve cough and colds.",
+  "alias": "Coral Root",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Coreopsis",
+  "latin": "Coreopsis gigantea",
+  "desc": "Coreopsis is used in herbal folk magic to enhance an individual’s natural spiritual energies, repel fear, and achieve enlightening divinations gotten through enhanced psychic clarity. Coreopsis, also known as tickseed, is native to South and Central America and is characterized by bright yellow flowers. A decoction of tickseed is used in herbal medicine is used to quell internal pains and bleeding. Coreopsis is also used as an infusion to treat diarrhea and gastrointestinal discomfort.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Coriander",
+  "latin": "Coriandrum sativum",
+  "desc": "Coriander is used in hoodoo traditional magic to attract love and passion, fill the home with peace and harmony, and ward away strife and negative energies. Coriander is an annual plant that grows u t0 three feet tall and is native to Peru and Egypt. The plant, however, now grows comfortably in several parts of Europe and the United States. Coriander seeds are used in folk medicine to relieve colic in children. The sweet-tasting extracts of the coriander seed are also used to make other herbal infusions more palatable.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "生育",
+   "平和"
+  ]
+ },
+ {
+  "name": "Cornflower",
+  "latin": "Centaurea cyanus",
+  "desc": "Cornflower, also known as the bachelor’s button, is used in hoodoo traditional folk magic to attract love and peace and to enhance natural psychic abilities. Cornflower originated from Southern Europe but now grows abundantly in parts of North America. A typical cornflower can grow some two feets tall and is characterized by startling purple blossoms. The infusion of the cornflower plant is used to treat wounds and bruises and also used to reduce swellings of the eyes.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Couch Grass",
+  "latin": "Agropyrum repens",
+  "desc": "Couch grass is utilized by hoodoo practitioners to protect the home from negative spiritual energies and unwanted visitors. Couch grass also contains natural spiritual energies that help to improve psychic clarity and visions and attract wealth and success. Couch grass is an aggressive weed that thrives across Europe, North and South America, Africa, and Australia. The juice of the leaves of this plant can be squeezed out and rubbed on painful joints to relieve the pain.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "成功",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Cowrie Shells",
+  "latin": "",
+  "desc": "Cowrie shells are a remnant of West African Vodun practices that have remained in hoodoo practices over the ages. Cowrie shells are most abundant in the Indian Ocean but also thrive in water bodies across the United States and Europe. Cowrie shells are used in magical spells to attract wealth and protect an individual from negative spiritual forces. Cowrie shells are also used in folk medicine to cure strokes and cardiac disease.",
+  "alias": "Cowrie Shells",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Cruel Man of the Woods",
+  "latin": "Strobilomyces strobilaceus",
+  "desc": "Cruel man of the woods, as the name suggests, is a powerful ground herb that is used in hoodoo folk magic to deepen spiritual awareness, cast spells for protection from negative energies, and place curse or hexes on enemies and adversaries. The cruel man of the woods herb is native to the coniferous forests of Europe, North America, and Asia and can grow up to four feet in length. Cruel man of the woods can be burnt as an incense to help relieve stress and improve the quality of sleep.",
+  "alias": "Cruel Man of the Woods",
+  "intents": [
+   "保护",
+   "驱逐",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Cubeb Pepper",
+  "latin": "Piper cubeba",
+  "desc": "Cubeb pepper is a woody herb native to Indonesia that grows up to twelve feet high. Cubeb pepper is important in folk magic for inviting fortune and abundance, protecting the self and home from negative spiritual energies, and increasing fertility and good health. Cubeb pepper is used in folk medicine to treat indigestion and respiratory disorders.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Cumin",
+  "latin": "Cuminum cyminum",
+  "desc": "Cumin is used in traditional hoodoo magic practices to ward off negative spiritual energies and vibrations from a home. Cumin is popularly used in herbal bundles to prevent theft and spells from inviting peace of mind into a dwelling. Cumin grows up to two feet tall and is native to the Persian Gulf. Cumin is used in herbal medicine to relieve indigestion in adults and colic in babies. Crushed cumin seeds are also used to make poultices that are used to heal swellings and bruises.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Damiana",
+  "latin": "Turnera diffusa",
+  "desc": "Damiana is burnt as incense by hoodoo folk magicians to increase their psychic abilities, achieve clearer and more enlightening divinations, and invite peace and tranquility into a home. Damiana is also used in spells for protection and attracting good luck. Damiana is native to Southern Texas in the United States, bit is also grown all over South America, Central America, and Mexico. Damiana has characteristic yellow flowers with a strong, distinctive fragrance and grows up to two feet tall. In folk medicine, damiana is used to cure stomach upsets, depression, and poor sexual performance.",
+  "alias": "Damiana",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "灵性",
+   "平和",
+   "性"
+  ]
+ },
+ {
+  "name": "Dandelion",
+  "latin": "Taraxacum officinale",
+  "desc": "Dandelion is used in hoodoo folk magic to attract love, grant wishes, summon positive spirits, and calm fierce storms. Dandelion is a perennial herb with a thick taproot that grows in North America, Europe, and most parts of the Northern Hemisphere. In folk medicine, dandelions are used to heal wounds and cure warts. The leaves can be made into an infusion to cleanse the kidneys and the gallbladder and clear off Urinary Tract Infections.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Deer’s Tongue",
+  "latin": "Liatris odoratissima",
+  "desc": "Deer’s tongue is primarily used in Hoodoo folk magic to invite love and passion into the life of a person. This distinctive herb is, however, also used to enhance psychic connections and invite success and wealth. Deer’s tongue is native to the North American pine forests but also grows in South Europe. The leaves of the deer’s tongue tree are narrow, resembling the tongue of a deer, hence the name given to it. The lant blooms best between August and September, so you can choose to collect the leaves and flowers within this time frame. The leaves of the deer’s tongue plant can be made into an infusion to cure fevers, colds and cleanse the blood.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "净化",
+   "成功",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Devil’s Pod",
+  "latin": "Trapa bicornis",
+  "desc": "The devil’s pod plant is an annual herb found in Europe, Asia, and Africa that grows predominantly in aquatic habitats. The roots of the plant can extend up to five meters into the water body, and the plant is most renowned for its uniquely shaped fruits which closely resemble flying bats. The devil’s pod is used in folk magic to repel negativity from life and dwelling off an individual, enhance psychic connections, and cleanse the body. In folk medicine, the devil’s pod is used to treat rheumatism, arthritis, and pains in the joints and muscles.",
+  "alias": "Devil’s Pod",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Devil’s Bit",
+  "latin": "Succisa pratensis",
+  "desc": "The devil’s bit is a flowering plant that bears purple flowers and thrives mostly in damp environments such as marshes and bogs. The devil’s bit is native to the British Isles and other parts of West and Central Europe. The herb also grows in North America and Central Asia. The devil’s bit is used to provide protection from negative spiritual influences and promote good health and peace of mind. In folk medicine, the devil’s bit is used to treat scabies, eczema, and other skin disorders.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Devil’s Shoestring",
+  "latin": "Nolina lindheimeriana",
+  "desc": "The devil’s shoestring is a perennial rosette herb that blooms primarily between April and June. Originally native to North America, the Devil’s Shoestring can also grow in Europe and parts of Asia. Devil’s shoestring is used by hoodoo practitioners in spells and charms to invite prosperity and wealth, protection against enemies, and to help a person get a job or win a keenly contested position. In folk medicine, the devil’s shoestring is used to cleanse the kidney and cure urinary tract infections.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "净化",
+   "成功"
+  ]
+ },
+ {
+  "name": "Dill",
+  "latin": "Peucedanum graveolens",
+  "desc": "This herb is used in hoodoo folk magic to invite abundance. Protect the home from evil spiritual forces, ward off envy, jealousy, and gossip, and enhance passion and sexual attraction. Dill is a hardy annual herb native to Southern Russia and the Mediterranean but also grows in other parts of Europe such as Spain and Portugal. In folk medicine, dill is used to relieve gastrointestinal discomfort, improve appetite, and stop vomiting. Oil extracted from the Dill leaves plant can also be mixed with water to cure hiccups.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Dirt Dauber Nest",
+  "latin": "",
+  "desc": "The nest of the dirt dauber (Sphecidae) is made out of mud and other natural particles. The nest is usually oblong and shaped like a cigar. The nest is usually found in cracks and crevices, and the dirt dauber is native to North America. In hoodoo folk medicine, the mud from the dirt dauber’s nest can be used to cure boils, swellings, and joint pain. The dirt may also be used in folk magic to invite protection and safety and ward off any evil spiritual energies or visitors from a home.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Dittany of Crete",
+  "latin": "Origanum Dictamnus",
+  "desc": "Dittany is used in hoodoo folk magic practices to attract love and passion, connect with spirits, and enhance the realization of dreams and wishes. Dittany originates from the Crete Islands Crete but is now grown all over North America and Europe. Dittany can be grown in potted plants in the home to ward off negative spiritual energies and to foster peace and harmony. The leaves of the dittany plant can be sued to make an infusion that accelerates the healing of wounds, heals snakebites, and eases the pains of childbirth.",
+  "alias": "Dittany of Crete",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "生育",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Dogbane",
+  "latin": "Apocynum cannabinum",
+  "desc": "Dogbane is a lethally poisonous plant that was named after its fatal effects on dogs. In hoodoo folk-magic, dogbane is used to enhance psychic connections to the spirit world, place curses and hexes on enemies, and protect a person from negative spiritual forces. Although a perennial herb native to North America, Dogbane also grows in parts of Europe and Asia. In ancient folk medicine, herbalists used to carefully boil the leaves of the dogbane plant to cure syphilis.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "驱逐",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Dragon’s Blood",
+  "latin": "Daemonorops draco",
+  "desc": "Dragon’s blood is used in hoodoo folk magic to attract love and passion, ensure good health and vitality, and bring joy, peace, and happiness into a person’s life. Dragon’s blood is native to Malaysia and Indonesia but also grows in parts of North America and Europe. Dragon’s blood is a climbing plant with prickly leaves that is commonly found growing in fields or around structures. The leaves of the plant may be made in an infusion to treat syphilis.",
+  "alias": "Dragon’s Blood",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "平和"
+  ]
+ },
+ {
+  "name": "Earth Smoke",
+  "latin": "Fumaria officinalis",
+  "desc": "Earth smoke is used in traditional hoodoo folk magic to ward off negative energies from a residence, protect a home from unwanted visitors, and enhance psychic clarity for divinations. Earth smoke blooms best between May and September and is found majorly in West and Central Europe. Earth smoke is also used in folk medicine as in incense to prevent insomnia and ease breathing difficulties.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Elderberry",
+  "latin": "Sambucus nigra",
+  "desc": "Elderberry is used in hoodoo folk magic to heal emotional wounds, revitalize the spirit, and invite wealth and abundance into a person’s life. Elderberry is native to Europe and North America and has elongated leaves with hollow states. In traditional folk medicine, elderberry is combined with beeswax to relieve the pains from sprains, bruises, and cuts.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Elecampane",
+  "latin": "Inula helenium",
+  "desc": "Elecampane is used in hoodoo folk magic to enhance protection, attract love and passion, and charge up the psychic energy in an environment for clearer and more insightful divinations. Elecampane grows in Europe, temperate Asia, and India and grows up to five feet tall with stout stems and pointed leaves. In hoodoo folk medicine, the leaves of elecampane are made into an infusion to cure coughs, colds, and bronchitis. When combined with honey, elecampane can be used for the effective treatment of hemorrhoids.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Epsom Salt",
+  "latin": "",
+  "desc": "Epsom salt is Magnesium Sulfate. The use of Epsom salts in folk medicine originated from Epsom in Surrey, England. In hoodoo folk-magic, Epsom salt is used to disarm enemies and prepare spiritual baths to purify the body and soul and ward off negative energies and vibrations. Epsom salt is also used to make floor washes that are used for spiritually cleansing a space and inviting blessings and fortune. Epsom salt is also used in traditional folk medicine to relieve constipation and cure insomnia.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Eucalyptus",
+  "latin": "Eucalyptus globulus",
+  "desc": "Eucalyptus is used in hoodoo folk magic for spiritual healing and cleansing, protecting the home from negative spiritual forces, and inviting wealth and money. Eucalyptus is native to the fields of Australia but also grows in Southern Europe and India. The herb is characterized by leathery leaves, which can be processed into an aromatic oil that is used in spiritual baths for cleansing the body and soul. In dark folk magic, the dried leaves of the eucalyptus plant are stuffed to make hoodoo dolls which can be used for cursing or hexing an enemy. In folk medicine, eucalyptus is used to ease cardiac ailments and chest pain.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "驱逐",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Fennel",
+  "latin": "Foeniculum vulgare",
+  "desc": "Fennel is used by hoodoo practitioners to protect homes from harmful spiritual forces, purify the mind and body, and imbue an individual with uncommon confidence and courage. Although a perennial herb native to the Mediterranean, Fennels also thrive well in temperate Europe. The fennel herb is five feet in length and blooms from July to August. In folk medicine, the seeds of the fennel herb can be steeped into boiling water and allowed to stand for up to ten minutes before being drunk. This preparation cures constipation and eases gastrointestinal discomfort.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性",
+   "勇气",
+   "智力"
+  ]
+ },
+ {
+  "name": "Fern",
+  "latin": "Pteris aquilina",
+  "desc": "Ferns are used in hoodoo magic to contact the dead, attract love and passion, enhance beauty and youthfulness, and protect people from physical and supernatural harm. The typical fern plant is a tough, creeping rhizome that grows very close to the ground. Ferns are native to North America, Europe, and Africa. The oil from the rhizomes is used in folk magic to expel worms from the body.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情"
+  ]
+ },
+ {
+  "name": "Feverfew",
+  "latin": "Chrysanthemum parthenium",
+  "desc": "Feverfew is used in folk magic to protect people from accidents, keep homes peaceful and happy, and ward off sicknesses and poor health. The feverfew plant is native to North America and Europe and is characterized by distinctive flowers with white outer rays and a yellow inner circle. In folk medicine, feverfew is used to heal insect bites and relieve itching.",
+  "alias": "Feverfew",
+  "intents": [
+   "保护",
+   "疗愈",
+   "平和"
+  ]
+ },
+ {
+  "name": "Fig",
+  "latin": "Ficus carica",
+  "desc": "Fig is used in folk magic practices to predict the future and find out hidden information, attract love, and enhance good health and fertility. Native mostly to the Middle East, Figs grow up to twenty feet tall with heavily lobed leaves. Figs are used in folk medicine to cure indigestion, toothaches and dental disease, and warts.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "生育"
+  ]
+ },
+ {
+  "name": "Five Finger Grass",
+  "latin": "Chloris virgata",
+  "desc": "This tough herb is a weed native to North America. Five-finger grass grows very close to the ground and is characterized by leaves separated into five lobes. Five-finger grass is used in spells and charms to invite confidence, toughness, and resilience. Five-finger grass is also used in folk magic practices to enhance spiritual protection and invite abundance and wealth. In folk medicine, the leave of the herb can be made into an infusion sued to treat diarrhea, fever, gum pains, and toothaches.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Flax",
+  "latin": "Linum usitatissimum",
+  "desc": "The seed of the flax plant is used in hoodoo folk magic to protect an individual from physical and spiritual harm, increase abundance and wealth, and enhance psychic clarity for healing rituals. Flaxseed is an annual herb with bright blue flowers that bloom between May and August. Flax is native to the Southern United States but also grows in Europe and parts of Africa. Flaxseed oil is used in folk medicine to lower blood pressure and treat arthritis. The crushed seeds can also be combined with ground mustard to form poultices to treat abscesses and local infections.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Frankincense",
+  "latin": "Boswellia thurifera",
+  "desc": "Frankincense is used in herbal magic to purge the home of negative spiritual energies, enhance peace of mind, and improve focus and concentration. Frankincense is a resin gotten from the Boswellia tree, which is native to the Middle East and Somalia. The tree is characterized by white to pink flowers which bloom between May to September. In folk medicine, frankincense can be burnt as an incense to heal laryngitis and asthma.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Frogs and Toads",
+  "latin": "",
+  "desc": "Frogs ( Pseudacris regilla ) and Toad ( Bufo bufo ) are used in traditional hoodoo magic to invite good luck and create spells for protection from evil spiritual forces. Frogs are also used to enhance spiritual awakening and improve psychic connections for divinations. The secretions on the skins of the common toad can be used to treat skin infections, insect bites, and inflammations.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Galangal Root",
+  "latin": "Alpinia officinarum",
+  "desc": "Galangal root is used in hoodoo folk magic to attract wealth and abundance, repel negative energies, and enhance psychic abilities in practitioners. The galangal root is native to China and Indonesia and is closely related to the ginger plant. The plant is characterized by long, tender leaves and thick, ringed rhizomes. Galangal root is made into a decoction in herbal folk medicine to treat indigestion and vomiting and to help relieve fevers and hemorrhoids.",
+  "alias": "Galangal Root",
+  "intents": [
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Gall of the Earth",
+  "latin": "Prenanthes trifoliata",
+  "desc": "This three-leaved plant is native to North America and grows close to the ground. Gall of the earth is used in spells for protection, healing, and the enhancement of psychic abilities. In folk medicine, gall of the earth is made into an infusion that is used to cure dysentery, asthma, and coughs.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Garlic",
+  "latin": "Allium sativum",
+  "desc": "Garlic is used in hoodoo magic practices to invite good luck, repel jealousy and envy, and protect sleeping children from nightmares and evil spirits of the night. Garlic is a close cousin of onions with long, narrow and flat leaves and a strong, distinctive flavor. Garlic grows in North America, Europe, Africa, and Asia. Garlic is used in folk medicine to disinfect wounds and relieve the pains of swellings.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "驱逐",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Gentian",
+  "latin": "Gentiana alba",
+  "desc": "Gentian is used in traditional folk magic for spiritual healing, protecting a person from harmful spiritual forces, and attracting love and passion. Gentian is native to Europe but grows in North America. The plant has intense blue flowers and grows up to a foot high. The flowers may be squeezed onto the surface of wounds to prevent infections and accelerate healing. Gentian leaves can also be made into an infusion to cure indigestion and diarrhea.",
+  "alias": "Gentian",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Geranium",
+  "latin": "Geranium maculatum",
+  "desc": "Geranium is used in hoodoo folk magic for spells and charms to attract wealth and abundance, improve fertility, enhance spiritual protection, and encourage love and passion. Geranium is an annual herb with feathery leaves native to North America and Europe. In folk medicine, geranium is used to make an infusion used to wash the face to treat skin infections.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "疗愈",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Ginger",
+  "latin": "Zingiber officinale",
+  "desc": "In hoodoo folk-magic, ginger is used to enhance protection, attract love, and enhance psychic capabilities. Ginger is a hardy perennial rhizome that is native to the West Indies, Asia, Jamaica, and parts of Africa. In folk medicine, ginger is used to treat diarrhea and upset stomachs. The root can be boiled to make a tea that is potent in curing sore throats and colds.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Ginseng",
+  "latin": "Panax quinquefolium",
+  "desc": "Ginseng is used in magical hoodoo practice to cast spells to ward off illness, invite fertility and abundance, and attract love and passion. Ginsengs are perennial plant that are mostly native to the woodlands of North America. Ginseng is used in folk medicine to reduce aging and treat diarrhea and stomach upsets.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "疗愈",
+   "生育"
+  ]
+ },
+ {
+  "name": "Goldenseal",
+  "latin": "Hydrastis canadensis",
+  "desc": "Goldenseal is used by hoodoo practitioners in spells and charms to attract money and wealth, chase away negative energies, and spiritually heal the mind and body. The herb is a fibrous rhizome that thrives in Canada and the eastern United States. Goldenseal is used in herbal folk magic to treat indigestion and clear congested respiratory airways.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "疗愈",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Goofer Dust",
+  "latin": "",
+  "desc": "This special mixture is a legendary component of hoodoo magical spells and charms. Goofer dust consists of graveyard dirt, black salt, ground sulfur, snakeskin, magnetic sand, and dried pigeon feces, all ground into a fine consistency. Goofer dust is primarily used in spells to curse enemies and cause discord and quarrels. Goofer dust may also be used to cast powerful protection spells for an individual or an entire home.",
+  "alias": "",
+  "intents": [
+   "保护"
+  ]
+ },
+ {
+  "name": "Grains of Paradise",
+  "latin": "Aframomum melegueta",
+  "desc": "This perennial herb is native to the swamps of West Africa but grows in North America and parts of Europe. Grains of paradise are used in hoodoo folk magic to attract success and wealth and for protection from evil spiritual energies. In folk medicine, the grains of paradise plant are used to treat wounds, ease stomach upsets, and boost male sexual performance.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "成功",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Grape",
+  "latin": "Vitis vinifera",
+  "desc": "Grape is used in magical hoodoo spells to attract happiness, joy, and harmony into a home. Grapes are also used to attract abundance and prosperity and are used in special charms to enhance fertility in married women. Grapes are native to the Mediterranean but thrive actively in the temperate regions of Europe and the Americas. The grape plant is a deciduous vine with heart-shaped leaves. Grapes are used in folk medicine to treat syphilis, purify the blood, and ease indigestion and constipation.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "疗愈",
+   "净化",
+   "生育",
+   "平和"
+  ]
+ },
+ {
+  "name": "Gravel Root",
+  "latin": "Eupatorium purpureum",
+  "desc": "Gravel root is used by hoodoo practitioners to attract wealth and abundance, help individuals secure high-paying jobs, and generally grant wishes and desires. Gravel root is native to North America and thrives particularly well in Florida and parts of Canada. A typical Gravel root can grow up to six feet tall, has purple stems, and rose-pink flowers that bloom between July and September. Gravel root can be boiled and used to treat kidney and bladder problems.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "疗愈"
+  ]
+ },
+ {
+  "name": "Graveyard Dirt",
+  "latin": "",
+  "desc": "The dirt sourced from a graveyard vibrates with enormous spiritual power, making a powerful means of summoning spirits and enhancing psychic abilities for divination. The specific capabilities of graveyard dirt differ according to the grave from which dirt is collected. Dirt collected from the graves of young children is used for spells to invite peace and calmness, while graveyard dirt from the tombs of old, aged people is used for rituals to attract wisdom and good health. Graveyard dirt can also be placed on the hoodoo altar to help charge the natural spiritual energies of the present elements.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "生育",
+   "灵性",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Gunpowder",
+  "latin": "",
+  "desc": "Gunpowder refers to a finely ground mixture of saltpeter, sulfur, and charcoal. This explosive mixture must be handled with care, especially around the naked flames from candles. Gunpowder is available all over the globe, from Europe to Asia, Africa, the Americas, and Australia. Gunpowder was originally developed in Europe and is used in hoodoo to cause quarrels and fights, break up a couple, cast spells for protection and safety from evil external forces, and repel negative spiritual energies.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Hawthorn",
+  "latin": "Crataegus oxyacantha",
+  "desc": "The berries of the hawthorn plant are used in hoodoo herbal magic to protect the home from negative spiritual vibrations and invite happiness and joy. Hawthorn is a thorny bush that grows up to five feet tall with long, narrow leaves. Hawthorn grows abundantly in Europe, North America, and Western Asia. The juice from hawthorn berries has been used in folk medicine to treat cardiac complications. An infusion made from the berries and leaves of the plant can be used to treat coughs, colds, and sore throat.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Hibiscus",
+  "latin": "Hibiscus sabdariffa",
+  "desc": "Hibiscus is used in hoodoo folk magic to cast spells to attract love and passion, predict the future with supernatural accuracy, and simply let go of one’s fears and tackle challenges with renewed confidence. Hibiscus is native to tropical Africa and South America but is also grown in parts of North America and Europe. Hibiscus plants can grow up to three feet tall and usually have distinctive red flowers. Hibiscus flowers are used in folk medicine to regulate menstrual cycles and relieve indigestion.",
+  "alias": "Hibiscus",
+  "intents": [
+   "爱情",
+   "勇气"
+  ]
+ },
+ {
+  "name": "High John the Conqueror Root",
+  "latin": "Ipomoea jalapa",
+  "desc": "Described as the most versatile herb in hoodoo, High John the Conqueror root is popularly used by practitioners for attracting wealth and abundance, protecting a home or individual from negative spiritual forces, reverse the effects of a curse or hex, and even attract love and passion, High John the Conqueror is native to North America, but also grows in parts of Europe and Asia. High John the Conqueror is used medicinally to improve male sexual performance, relieve indigestion and constipation, and treat joint pains and rheumatism.",
+  "alias": "High John the Conqueror Root",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "疗愈",
+   "驱逐",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Holly",
+  "latin": "Ilex aquifolium",
+  "desc": "Holly is used in hoodoo folk magic to protect the home from evil supernatural forces, invite good luck and fortune, and foster an atmosphere of peace and harmony. Known as an evergreen shrub, Holly grows up to forty- feet tall. This tree is native to Europe but thrives abundantly in North America. In folk medicine, the leaves of the holly plant are made into an infusion to treat influenza, pneumonia, bronchitis, and fever. The berries of the holly tree are, however, poisonous and must not be consumed.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "好运",
+   "疗愈",
+   "平和"
+  ]
+ },
+ {
+  "name": "Hops",
+  "latin": "Humulus lupulus",
+  "desc": "Hops are used in hoodoo folk magic to eradicate nightmares, cure insomnia, and cleanse the mind, body, and spirit of any negative spiritual energies. Hops are perennial herbs with stout roots that are native to North America. Practioners of herbs and voodoo use Hops’ leaves to infusions that help to improve the appetite and relieve an upset stomach.",
+  "alias": "Horehound ( Marrubium vulgare ) Horehound is used by hoodoo practitioners to cast spells that help to bring calmness and balance, enhance creativity, and invite spiritual healing for the mind and body. Horehound is found throughout Europe and North America and blooms from June through September. This herb has been historically used in folk medicine as a decongestant and in the treatment of asthma and bronchitis.",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Huckleberry",
+  "latin": "Vaccinium myrtillus",
+  "desc": "The leaves of the huckleberry plant are used in hoodoo magic to make charms for good luck and to repel negativity. Huckleberry leaves are also used to enhance the manifestation of innate desires and dreams. Huckleberry is native to the forests of Europe, Asia, and North America. In folk medicine, huckleberry leaves are made into an infusion that is used in the treatment of eye irritation, hemorrhoids, and arthritis. The berries of the huckleberry plant are also used to treat stomach ulcers and stop diarrhea.",
+  "alias": "",
+  "intents": [
+   "好运",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Hyssop",
+  "latin": "Hyssopus officinalis",
+  "desc": "Hyssop is used in hoodoo magic to protect an individual or a home from negative spiritual forces, eradicate depression, and purify the altar where hoodoo rituals are being carried out. Hyssop is native to the Mediterranean and Eastern Asia but now grows throughout Europe and North America. This evergreen shrub is used in folk medicine for the treatment of arthritis and rheumatism, to relieve stomach ache, and as a poultice to disinfect and",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Indian Head Cent",
+  "latin": "",
+  "desc": "The Indian head cent is an antique coin made of copper that was used in the United States in the early 20th century. This copper coin is famous for use in hoodoo magic to invite success, wealth, abundance, and good luck.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "成功"
+  ]
+ },
+ {
+  "name": "Irish Moss",
+  "latin": "Chondrus crispus",
+  "desc": "Irish moss is a red alga that grows in Europe and North America. This herb is used by hoodoo practitioners in spells to protect individuals and homes from danger and harm. Hoodoo magicians also use Irish moss for love spells and to attract wealth and prosperity. In folk medicine, Irish moss is used to help people lose excess weight and manage cardiac ailments.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富"
+  ]
+ },
+ {
+  "name": "Jasmine",
+  "latin": "Jasminum officinale",
+  "desc": "Jasmine is used in traditional hoodoo magic to help people overcome their fears and allow them to achieve peace, balance and tranquility in their lives. Jasmine is a perennial herb native to Persia but grows in North America and Europe. Jasmine is used in hoodoo folk medicine to help relieve muscle spasms and contractions and help to increase fertility and sexual performance.",
+  "alias": "",
+  "intents": [
+   "生育",
+   "勇气",
+   "平和",
+   "性"
+  ]
+ },
+ {
+  "name": "Jezebel Root",
+  "latin": "Iris hexagonae",
+  "desc": "The Jezebel root was originally used by conjure doctors to create charms for sex workers to help attract men. The herb is a potent element of love and attraction spells but is also used to attract wealth, abundance, and money. The jezebel root is a perennial herb that thrives in North America and Europe. In folk medicine, the Jezebel root is used to relieve symptoms of kidney disease and to ease the pains of menstruation.",
+  "alias": "Jezebel Root",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "驱逐",
+   "性"
+  ]
+ },
+ {
+  "name": "Job’s Tears",
+  "latin": "Coix lacryma-jobi",
+  "desc": "Job’s tears is used in hoodoo magic to ease the pain of teething in babies, to cleanse the mind and body of negative spiritual forces, and to lead to the accomplishment of dreams and desires. Job’s tears is native to Eastern Asia but are grown all over the Southern United States. In hoodoo folk medicine, Job’s tears are used to cure diarrhea. A poultice made from the leaves of the plant is also used to disinfect wounds and accelerate the healing of eternal abscesses.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Johnny Jump-Up",
+  "latin": "Viola tricolor",
+  "desc": "Johnny Jump-up is used by hoodoo herbal doctors in spells to attract a lover and deepen the passion in a relationship. The herb is also used to boost fertility and enhance good health. This uniquely named herb thrives in North America. Europe and Asia, and is used medicinally to cure skin diseases, asthma, and rheumatism.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "生育"
+  ]
+ },
+ {
+  "name": "Juniper",
+  "latin": "Juniperus communis",
+  "desc": "Juniper is used in hoodoo folk magic for spells to protect an individual and a home from evil spiritual forces. The herb is also used to attract love and affection and prevent unexpected accidents. Juniper is native to Europe, Northern Africa, and Northern Asia. Practitioners use Juniper plant berries in hoodoo medicine to treat infections of the bladder and the urinary tract. Practitioners also boil the Juniper leaves to make a decoction used to treat asthma, flu, and colds.",
+  "alias": "Juniper",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Kananga water",
+  "latin": "",
+  "desc": "Kananga water is a specialized spiritual bath that is made out of the essential oils of rose, cassia, almond, orris rhizome, storax, grain musk, civet, and tonka beans. All these essential oils are blended in 90% alcohol and left to stand for one month, and then the mixture is filtered and kept in an airtight jar away from moisture and sunlight. Kananga Water is usefully added to bath water to cleanse the body of negative spiritual forces, invite wealth and good luck, and strengthen a relationship or attract a new lover.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "好运",
+   "净化",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Knot Weed",
+  "latin": "Polygonum aviculare",
+  "desc": "Knotweed is used in hoodoo magic to expunge sadness and depression from an individual’s life and to improve psychic visions and spiritual awareness. Knotweed is an annual herb that is native to Europe and Asia but is also found in parts of North America and Africa. The leaves of the knotweed plant are used in hoodoo medicine to make a poultice to treat bleeding hemorrhoids. The juice from the leaves is also used to stop nosebleeds.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Lavender",
+  "latin": "Lavandula angustifolia",
+  "desc": "Lavender is used in traditional hoodoo magic to invite the spirits of peace and harmony into a home. Lavender is also used to help to control anger and rage and expunge bitterness and hatred. It is also used to deepen spiritual awareness and repel negative forces. Lavender is an evergreen shrub that grows up to three feet tall. The herb has lilac-blue flowers that bloom from June through September. Lavender is especially remarkable for its strong, pleasant scent that makes it an integral element of most perfumes. Lavender is used in folk medicine to heal bacterial and fungal infections.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Lemon",
+  "latin": "Citrus limonum",
+  "desc": "Lemon is used by hoodoo practitioners to help to purify the home and rid it of negative spiritual forces. The fruit is also used to attract love, deepen friendships and relationships, and enhance beauty and youthfulness. The lemon tree is native to Northern India but is widely cultivated in tropical regions and the Mediterranean. Lemon is used in hoodoo folk medicine to cure scurvy and heal fevers and sore throats.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Lemon Balm",
+  "latin": "Melissa officinalis",
+  "desc": "Lemon balm is used in hoodoo folk magic to attract love, release hatred and bitterness and enhance psychic abilities and spiritual connections. Although native Europe, Lemon balms are cultivated all over the world. The herb grows up to two feet high, and the leaves have a distinctive lemon-like smell. In hoodoo folk medicine, lemon balm is used to reduce anxiety, promote good sleep, and relieve bloating, indigestion and gas.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Lemongrass",
+  "latin": "Cymbopogon citratus",
+  "desc": "Lemongrass is used in traditional hoodoo folk magic to eradicate snakes, boost fertility and sexual performance, and improve psychic abilities to enhance clearer and more rewarding divinations. Lemongrass is a tall, broad-leaved grass native to India. It is, however, now grown across Asia and Europe. In hoodoo folk medicine, lemongrass is used to ease indigestion and relieve the pains of menstruation. An infusion made from the leaves of lemongrass can also be used to treat nausea.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "生育",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Lemon Verbena",
+  "latin": "Aloysia triphylla",
+  "desc": "Lemon Verbena is used by hoodoo herbal doctors to chase away bad dreams and purge the home of negative spiritual vibrations. Lemon verbena is also used in spells to attract love and bring happiness and joy. A bushy shrub that grows up to five feet tall in tropical regions of Africa, Asia, and Europe, lemon verbena infusions can be used to relieve indigestion, cure nausea and treat menstrual pain. The oil extracted from the plant is used in the treatment of asthma and depression.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Licorice Root",
+  "latin": "Glycyrrhiza glabra",
+  "desc": "The licorice root is used by hoodoo practitioners to help attract love and passion and deepen the relationship between existing partners. Licorice root is also used to help people stop smoking and attract good luck and wealth. Licorice is native to Southeastern Europe and Southwest Asia. The plant, however grows in North America and parts of tropical Africa. Licorice root is used to make a decoction that is used in traditional folk medicine to help treat cough, congestion, bronchitis, and chest pain. |",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "好运",
+   "疗愈"
+  ]
+ },
+ {
+  "name": "Lodestone",
+  "latin": "",
+  "desc": "Lodestone is the native name for magnetite. This ore is native to Europe, and is used by hoodoo rootworkers as an element of attraction. Lodestone, is, therefore, usually a key element of mojo and gris-gris bags used to attract wealth, good luck, abundance, and money.",
+  "alias": "Lodestone",
+  "intents": [
+   "财富",
+   "好运"
+  ]
+ },
+ {
+  "name": "Lovage",
+  "latin": "Levisticum officinale",
+  "desc": "Lovage is used in traditional hoodoo folk magic to attract love and passion and enhance safe travels. Lovage is a stout, perennial herb that is native to the Mediterranean and Greece. Lovage is used to treat stomach disorders, relieve indigestion and used treat colic and gas. The infusion can be used as a mouthwash to enhance oral freshness and relieve dental pain.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈"
+  ]
+ },
+ {
+  "name": "Lucky Hand Root",
+  "latin": "Evernia prunastri",
+  "desc": "The lucky hand root is another important element of a mojo bag that is primarily used as an element for attracting money and good luck. The root is usually included in mojo bags curated for gamblers to enable high winnings. The lucky hand root grows in Australia, Asia, and Europe. In folk medicine, the lucky hand root is used to treat rheumatism and disinfect wounds.",
+  "alias": "Lucky Hand Root",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "成功"
+  ]
+ },
+ {
+  "name": "Lye",
+  "latin": "",
+  "desc": "Lye is the native name for sodium hydroxide. This powerfully caustic compound is used in hoodoo folk medicine to disinfect wounds. In hoodoo magic, lye is usually included in very small quantities as a purification agent in spiritual baths and floor washes. It is believed that the cleansing powers of lye can help to eradicate negativity and rid the home, body, and spirit of negative spiritual forces.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Mace",
+  "latin": "Myristica fragrans",
+  "desc": "This herb is used in hoodoo magic to boost fertility and sexual performance, invite wealth and abundance, and bring good luck. Mace is native to New Guinea and the West Indies. It is, however, currently grown in North America and parts of Europe. Mace can be added to bathwater to increase the chances of conceiving a child. For cleasing the home of negative spiritual forces, add Mace to water and sprinkle around. In hoodoo folk medicine, mace is used to treat indigestion. An infusion of mace combined with ginger, lemon juice, and honey can be used to relieve a sore throat.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "生育",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Magnetic sand",
+  "latin": "",
+  "desc": "Magnetic sand is also used as an element of attraction. This powder contains ground magnetite and is used in hoodoo folk magic to attract wealth, good luck, abundance, love, and money.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "好运"
+  ]
+ },
+ {
+  "name": "Magnolia",
+  "latin": "Magnolia acuminata",
+  "desc": "Magnolia is used in hoodoo folk magic to prevent cheating and infidelity in romantic relationships and to provide protection to an individual from spiritual and physical harm. The herb is also used in spells to purify the home and cleanse it of any negative spiritual vibrations. The magnolia tree is a regally magnificent one, standing up to eighty feet tall. The tree has oval leaves with pointed tips and is native to North America. The tree is, however grown in parts of Europe, tropical Africa, Asia, and Europe. Magnolia leaves can be placed under the bed to enhance fidelity and on the hoodoo, altar to enhance psychic clarity and purity. In hoodoo folk medicine, magnolia is used as a laxative to ease indigestion. The infusion made from the leaves is also used to cure malaria and purify the blood.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Mandrake Root",
+  "latin": "Mandragora officinalis",
+  "desc": "Mandrake is used in hoodoo folk magic to aid conception, attract love and bring good luck and wealth. The mandrake tree is native to Southern Europe and grows in warmer, tropical climates. Mandrake, however, rarely grows in temperate regions as it is not adapted to survive winter. Mandrake root can be hung in the home to chase away demons and cleanse the home of negative spiritual energies. The root can also be hung over your bed to improve your chances of conceiving a child and to ward off bad dreams. In hoodoo folk medicine, mandrake root is made into an ointment to treat cuts, bruises, and burns. The leaves of the mandrake plant can also be made into a poultice to treat ulcers.",
+  "alias": "Mandrake Root",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "好运",
+   "疗愈",
+   "净化",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Marjoram",
+  "latin": "Origanum majorana",
+  "desc": "Marjoram is used in traditional hoodoo folk magic to attract love and passion, protect the home from negative spiritual vibrations, and repel all forms of evil. Marjoram is indigenous to Portugal. The typical Marjoram plant can grow up to two feet tall, and has a fibrous, fleshy root with reddish stems. The dried leaves of the marjoram plant can be sprinkled around the home to repel all forms of negativity. The sprigs of the plant may also be hung over the front door to ward off unwanted visitors. When dried and ground, Marjoram dried leaves are worn in an amulet to attract a lover. In traditional herbal medicine, the fresh marjoram leaves can be rubbed on the forehead and temple to relieve headaches. The leaves can also be boiled, and the steam inhaled ti treat tonsilitis, bronchitis, asthma, and colds.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Masterwort",
+  "latin": "",
+  "desc": "( Imperatoria ostruthium ): Masterwort is used in hoodoo magic to enhance courage and bravery to take on daunting tasks and challenges. This root can also help to strengthen confidence and willpower, and protect the family and the home from negative spiritual energies. Masterwort is native to Central Europe but thrives in meadows in North America. This perennial herb has stout stems and grows up to three feet tall. To gain the strength to tackle a difficult task, the plant can be worn on the body. This enhances willpower. Masterwort can also be kept in the home to protect the family from spiritual attracts and negative influences. In folk medicine, the Masterwort root is made into a decoction to treat stomach diseases and menstrual pain.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Master Root",
+  "latin": "Eryngium yuccifolium",
+  "desc": "The master root grows in extensive carpets of grass near the ground. This herb is used to attract good luck and abundance, boost happiness and joy, and enhance psychic abilities for divination and spell casting. The plant is found in North America and parts of Asia. In hoodoo medicine, masterwort is used as a remedy for snakebites.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "latin": "Mercurialis perennis",
+  "desc": "This plant grows very close to the ground and possesses serrated leaves. Mercury is native to Europe and is used in hoodoo folk magic to protect the home from negative spiritual energies and increase fertility and good health. Mercury is used in folk medicine to induce vomiting when a poisonous substance is consumed. It is also used to relieve menstrual pain.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Mint",
+  "latin": "Mentha piperita",
+  "desc": "Mint is used in traditional hoodoo magic to help purify the thoughts, enhance peaceful, energizing sleep, and improve psychic abilities to improve divinations. Mint is characterized by its fresh, tangy smell and the menthol-induced cool taste. Mint is native to North America and Europe. Mint leaves can be placed underneath a pillow used to sleep to cure insomnia. The leaves can also be rubbed on the money in your purse to attract abundance and wealth. When in doubt, mint leaves can be held to the forehead while the problem is pondered upon to help arrive at the best decision. In folk medicine, an infusion made from mint leaves can be used to cure indigestion, stomach cramps, and menstrual cramps. A dilute form the infusion can be used to cure colic in children.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "疗愈",
+   "净化",
+   "生育",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Mistletoe",
+  "latin": "Viscum album",
+  "desc": "Mistletoe is an evergreen parasitic plant that grows on the branches of Apple, Oak, Hawthorn, and Cedar trees. The leaves of mistletoe are shaped like a tongue, and it has small flowers that appear in clusters. Mistletoe is found in North America, Europe, and parts of Asia. Mistletoe can be hung in the home to attract peace and blessings. The leaves of the plant can also be placed on the hoodoo altar to sanctify it and enhance insightful divinations. In folk medicine, mistletoe is used to treat epilepsy and other forms of convulsion. It is advised to avoid the berries of the mistletoe plant as they can be poisonous.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Mojo Beans",
+  "latin": "Vicia faba",
+  "desc": "Mojo beans are characterized by five distinct red petals that hang from the stem. This plant is three feet tall and thrives in North America and Europe. Mojo beans are used in hoodoo rituals to attract abundance and prosperity and to help overcome pressing difficulties. It can also be placed on the hoodoo altar to enhance psychic abilities. In hoodoo folk medicine, mojo beans can be used to enhance male sexual performance and to treat the symptoms of Parkinson’s disease.",
+  "alias": "Mojo Beans",
+  "intents": [
+   "财富",
+   "疗愈",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Motherwort",
+  "latin": "Leonurus cardiaca",
+  "desc": "Motherwort is used to help strengthen the bond of the family, release hatred, bitterness, and anger, and enhance self-acceptance. Motherwort is native to Europe, and naturally grows along riverbanks and under hedges. The herb can be placed on the altar and sprinkled around the home to enhance the powers of positive spiritual vibrations. The infusion made from motherwort leaves may be added to bathwater to improve the mood and enhance relaxation. Motherwort can also be placed under the pillow before sleeping to absorb all feelings of bitterness and anger, and self-hate. In hoodoo folk medicine, motherwort is used to regulate the menstrual cycle, strengthen the heart, and relieve depression.",
+  "alias": "",
+  "intents": [
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Mugwort",
+  "latin": "Artemisia vulgaris",
+  "desc": "Mugwort helps to enhance refreshing and enlightening dreams, protects an individual from spiritual harm, and heals the body and spirit. Mugwort is native to Europebut grows in North America and parts of Asia. The plant is three feet tall with angular stems. The leaves of the Mugwort plant can be placed under your pillow before you sleep to help you achieve enlightening dreams. The dried leaves of the Mugwort plant can also be hung over the front door of a home to chase off evil spirits. In hoodoo medicine, Mugwort is used to relieve depression, mood swings, and menstrual cramps.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "驱逐",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Mullein",
+  "latin": "Verbascum Thapsus",
+  "desc": "Mullein is used to protect individuals and homes from negative spiritual forces, enhance wisdom, curiosity, and understanding, and imbue a person with courage and confidence. Mullein is native to Europebut grows in temperate regions of Asia and North America. This hardy biennial herb is usually identified by its bright yellow flowers, which bloom best between July and August. The stalk of the mullein plant can be placed under a pillow to banish nightmares. Bits of dried mullein leaves can also be placed in one’s shoes to ensure the presence of positive spiritual vibrations around at all times. Mullein can also be added to bathwater to enhance confidence and bravery. In hoodoo folk medicine, an infusion made from mullein leaves can be used to cure indigestion, clear congested respiratory airways, and stop internal bleeding. Mustard Seed, Black ( Brassica nigra ): The black mustard seed is used in traditional hoodoo magic to achieve mental clarity and balance, restore beauty and youthfulness, and eradicate negativity from an environment. Black mustard seed is native to Chile and Argentina but grows well in Europe and the United States. In hoodoo folk medicine, black mustard seed is used to heal cold and relieve the pains of arthritis. Mustard Seed, White ( Brassica alba ): The white mustard seed is an annual herb characterized by stalkless leaves. Mustard Seed white is mostly native to North Africa and the Middle East, but has also been found growing in parts of Europe. White mustard seed is used in hoodoo magic to fill the home with positive vibrations of peace and harmony, attract abundance and wealth, and enhance psychic abilities during rituals. Mustard seed is used in traditional herbal medicine to prevent wound infections, heal sore throats, and help to treat coarse voices.",
+  "alias": "Mullein",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "驱逐",
+   "灵性",
+   "勇气",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Myrrh",
+  "latin": "Commiphora myrrha",
+  "desc": "Myrrh is used in traditional hoodoo magic to enhance the feminine auras of a woman. It also helps to elicit feelings of peace and joy and facilitates spiritual healing. Myrrh is native to Arabia, East India, and North Africa. The myrrh plant can grow up to nine feet tall, and the bark contains pale yellow secretions that harden into an aromatic mass. This mass is burnt as an incense to invite positive spiritual vibrations and enhance psychic visions during divinations. Myrrh is worn in amulets to attract a lover and deepen passion. Myrrh can be burnt with frankincense as an incense to ward off negativity and evil spirits and invite peace and tranquility. Myrrh can also be added to a sachet and hung in the home to invite joy and success into the home. In hoodoo folk medicine, myrrh is used for treating respiratory congestion and upset stomachs.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "驱逐",
+   "成功",
+   "灵性",
+   "平和",
+   "性"
+  ]
+ },
+ {
+  "name": "Myrtle",
+  "latin": "Myrtus communis",
+  "desc": "Myrrh is used by hoodoo practitioners to add a spark of excitement and passion into a romantic relationship that is starting to feel boring. Myrtle also helps to enhance beauty and youthfulness and attracts wealth and abundance. Myrtle is native to Southern Europe and North Africa and is an evergreen shrub with white, star-shaped flowers. Myrtle can be carried by a bride on her wedding day to ensure a long-lasting marriage and to increase her fertility. A myrtle bath can help to ward off negative energies from the body and fill the soul with a sense of peace and tranquility. Myrtle can also be placed on a window sill to keep the home safe from negative spiritual energies. An infusion made from myrtle leaves is used in hoodoo folk medicine to treat urinary tract infections, bronchitis, nasal congestion, and sinusitis. Myrtle can also be used as a douche to treat vaginal infections, prevent smelly discharges, and relieve vaginal itching.",
+  "alias": "Needles [Steel Sewing Needles]: Needles are primarily used in hoodoo folk magic to sew hoodoo dolls which can be used to attract a lover or place a curse or hex on an enemy. Specialized needles are also used to write inscriptions on candles while performing candle magic. The inscription can be the name of a lover the person hopes to attract or an enemy he hopes to curse.",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "疗愈",
+   "生育",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Nettle",
+  "latin": "Urtica dioica",
+  "desc": "Nettle has used in hoodoo magic to lift emotional burdens off people. It is also used in rituals to ensure the success of a new endeavor and is used in spells to increase self-confidence and courage. Nettle is a perennial plant native to Europe but also grows in North America and parts of Asia and Africa. Nettle has serrated elliptical leaves with up to five veins. Dried nettle leaves can be sprinkled around the home to surround the space with an aura of love and harmony. An infusion made from nettle leaves can also help to enhance creativity, logical thinking and repel negative thoughts. A fresh nettle leaf can be wrapped in a piece of cloth and then kept in a purse or wallet to attract money and abundance. In traditional hoodoo folk medicine, nettle leaves are wrapped around aching joints to relieve the pain. Nettle infusions also help to cleanse the kidneys and the bladder.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "净化",
+   "成功",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Nutmeg",
+  "latin": "Myristica fragrans",
+  "desc": "Nutmeg is used to attract good luck, prevent unexpected illnesses, and attract joy and happiness into a person’s life and home. The nutmeg tee is native to North America but grows in Europe and parts of Asia. The tree grows up to twenty-five feet tall and produces fruits only after nine years. Nutmeg can e carried in the purse to attract good luck, wealth, and abundance. Bits of nutmeg can also be sprinkled around the home to imbue the space with auras of peace and joy. In hoodoo folk medicine, nutmeg is used to stop vomiting, relieve indigestion, and treat nausea. Nutmeg can also be mixed with beeswax to make an ointment for hemorrhoids. The infusion made from the leaves of the nutmeg tree can also be added into a bath to relieve the pains of arthritis and rheumatism.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "平和"
+  ]
+ },
+ {
+  "name": "Oak",
+  "latin": "Quercus robur",
+  "desc": "Oak is used in traditional hoodoo magic to attract money and power, to invite good health, improve fertility and sexual performance, and protect the home from negative spiritual forces. Oak is a huge, sprawling, magnificent tree with great historical significance. The tree is native to England but grows all over Europe and North America. The oak tree lives up to eight hundred years and can grow up to a staggering 125 feet. A piece of oak can be hung in the home to attract good luck and fortune. An oak branch in the home also helps to prevent unexpected natural disasters, enhance fertility, and repel sicknesses. Oak acorns can be laced in the hoodoo altar to enhance wisdom and psychic abilities. In hoodoo folk medicine, the bark of the oak tree is used to treat chronic diarrhea. An infusion made from the leaves helps to treat sore throats and relieve the pains of bleeding gums.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "疗愈",
+   "生育",
+   "灵性",
+   "智力",
+   "性"
+  ]
+ },
+ {
+  "name": "Orange",
+  "latin": "Citrus aurantium",
+  "desc": "Orange is used in hoodoo folk magic to attract love, eradicate negative spiritual forces, and invite prosperity and abundance. The orange tree is native to India and China but is now grown all over North America, Africa, and the United States. The tree has characteristic sweet-smelling blossoms and orange-colored fruits. The seeds of the orange fruit can be included in an amulet to attract a lover. Orange blossoms can also be scattered around a home to invite joy, peace, and happiness. Adding orange blossoms to bathwater helps to lift your emotions and enhance psychic abilities. A bowl full of orange fruits can be placed anywhere within the home to invite abundance, wealth, and prosperity. In hoodoo medicine, oranges are used to treat colds. Practitioners also use Orange peels to disinfect wounds and accelerate healing.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Oregano",
+  "latin": "Origanum vulgare",
+  "desc": "Oregano is used in traditional hoodoo magic to invite freedom and liberation, protect individuals and homes from adverse spiritual forces, and ensure safety and comfort during long journeys. Native only to the Mediterranean, Oregano is used for native dishes in Mexico, Italy, and Spain. The oregano herb is perennial, with leaves that have a distinctive minty smell. The herb grows up to two feet tall and has white or pink flowers. Oregano can be sprinkled around the perimeter of a home to attract joy and laughter. While traveling, bits of dried oregano leaves can be sprinkled in your shoes to ensure safety and comfort. In hoodoo medicine, oregano leaves are crushed to make a poultice that is used to treat inflammations. The infusion from the leaf eases indigestion and cleanses the liver.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Palmarosa",
+  "latin": "Cymbopogon martinii",
+  "desc": "Palmarosa is native to India and China but also grows in parts of the United States and Europe. Palmarosa is in traditional hoodoo magic to attract wealth and good luck, ward off negativity and attract love and passion. In hoodoo folk medicine, palmarosa is used to treat inflammations and relieve the pain of sore feet and stomach aches.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "好运",
+   "疗愈"
+  ]
+ },
+ {
+  "name": "Parsley",
+  "latin": "Petroselinum crispum",
+  "desc": "Native originally to the Mediterranean, Parsley also grows in Europe and North America. This perennial shrub is used for inviting all-around protection in the life and dwelling of an individual. Parsley is also used to attract love and deepen spiritual connections. In hoodoo folk medicine, parsley is used to cure high blood pressure and relieve the pain of inflammations.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Passionflower",
+  "latin": "Passiflora incarnata",
+  "desc": "Passionflower is used in traditional hoodoo folk magic to repel negative energies and remove bitterness and adverse emotions. It is also used in spells to attract and preserve friendships and to enhance sound sleep. Passionflower is a perennial root with three-lobed leaves. Keeping a bundle of passionflower stalks in the home invites peace, ease, and tranquility into the dwelling. The flowers of the plant can also be kept on the hoodoo altar to enhance the clarity of divinations. Including petals of the passionflower plant in an amulet can help to strengthen relationships and help you curry favor from others. In hoodoo folk medicine, passionflower is made into an infusion to lower blood pressure, treat epilepsy and diarrhea, and ensure sound sleep.",
+  "alias": "Passionflower",
+  "intents": [
+   "疗愈",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Patchouli",
+  "latin": "Pogostemon cablin",
+  "desc": "Patchouli leaves are used by herbal doctors in hoodoo to attract money and prosperity, improve fertility, and deepen an individual’s connection to the earth and the spiritual realm. Patchouli is native to the East Indies and Paraguay. It has distinctive egg-shaped leaves, white flowers with a purple tinge, and grows up to three feet tall. The leaves of the patchouli plant can be burnt as an incense to enhance psychic abilities and awaken positive spiritual energies within the home. The leaf can also be placed in an amulet to attract love and arouse sexual interest in a lover. When placed under the bed, the patchouli leaf can help to enhance the chances of conception. When rubbed on money put in a wallet, the leaf attracts abundance and prosperity. In folk medicine, patchouli is not consumed orally as it causes nervous attacks and insomnia. It can, however, be applied externally on wounds to accelerate healing.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "生育",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Pennyroyal",
+  "latin": "Mentha pulegium",
+  "desc": "Pennyroyal helps to ward off negative energies, enhance innate strength, and brings peace and tranquility. Pennyroyal grows in Europe, North America, and parts of Asia and has bright green leaves with a distinctive minty smell. The herb blooms abundantly in July and August. Pennyroyal can be placed in the shoes before a trip to ensure safe travels. Dried pennyroyal can also be placed in a hoodoo doll to eradicate stomach upsets. Dried leaves of the herb can also be mixed with sea salt to eradicate adverse spiritual energies from the home. An infusion of the pennyroyal herb can also be added to sea salt, and bath water to increase natural physical energy and strength, relieve stress, and invite feelings of peace and calmness. In folk medicine, pennyroyal can be mixed with honey to cleanse the lungs and get rid of coughs and colds. It is also used to relieve arthritis and rheumatism.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "净化",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Peony",
+  "latin": "Paeonia officinalis",
+  "desc": "Peony is used to protect the home, eradicate negative spirits, and invite good luck and abundance. Peony is native to Southern Europe but also grows in North America and temperate Asia. The hardy perennial herb grows up to four feet tall and has bright, pink leaves. Peonies can be kept in the home to attract peace and good luck. Burning dried peony as an incense also helps to invite positive spiritual vibrations. In folk medicine, peony is used to treat epilepsy. A decoction of the peony root helps to ease the pains of childbirth and relieves the symptoms of menopause.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "疗愈",
+   "驱逐",
+   "生育",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Periwinkle",
+  "latin": "Vinca minor",
+  "desc": "Periwinkle helps to attract wealth and abundance, increase psychic abilities, and enhances intelligence and wisdom. Periwinkle is an evergreen herb with leaves that grow in pairs and flowers that bear five purple petals. Periwinkle is native to North America and grows in Europe and parts of Africa. Dried periwinkle can be burnt as an incense to attract wealth and fortune into a home. Periwinkle flowers can also be added to bathwater to alleviate stress and attract psychic clarity. A bouquet of periwinkles can also be kept near a study desk to boost retentive memory while preparing for an examination. In hoodoo folk medicine, periwinkle is used to treat internal hemorrhages and to ease indigestion.",
+  "alias": "Periwinkle",
+  "intents": [
+   "财富",
+   "疗愈",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Pine",
+  "latin": "Araucaria heterophylla",
+  "desc": "Pine helps to protect the home and all individuals within it, dispels negativity and adverse spiritual energies from a home and attracts wealth and abundance. The pine is a coniferous plant indigenous to the Norfolk Islands and Australia. Various species of pine also grow in North America, Europe, and parts of Asia. Pine can be grown as a potted plant within the home to invite positive spiritual energies, joy, and abundance into the home. In hoodoo folk medicine, the bark of the pine tree can be used to make a decoction to clean wounds and prevent infections. When mixed with beeswax, this decoction can help to relieve the pains from sprains and bruises.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Pins",
+  "latin": "",
+  "desc": "Pins are primarily used to piece together the parts of a hoodoo doll, especially when an item of clothing of the target has to be attached to the doll. Pins can help in spells to place a curse on enemies or attract the love and affections of the desired lover. Pins can also be used in candle magic to inscribe desires on a special candle before casting a spell.",
+  "alias": "",
+  "intents": [
+   "爱情"
+  ]
+ },
+ {
+  "name": "Plantain",
+  "latin": "Plantago major",
+  "desc": "Plantain helps to heal the mind and body, protects you and your home from negative spiritual influences, and increases strength and tenacity. Plantain grows as a short rhizome that thrives in tropical parts of South America, Africa, Asia, and Europe. The plantain leaf can be rubbed in the soles of the feet to eradicate fatigue and increase spiritual strength. The root of the plant can also be carried in your pocket to repel all negative spiritual forces. In hoodoo folk medicine, plantain is rubbed in ti the skin to relieve the pains of sores and clear up skin infections.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性",
+   "勇气",
+   "智力"
+  ]
+ },
+ {
+  "name": "Poke",
+  "latin": "Phytolacca decandra",
+  "desc": "Poke helps to attract spirits of courage and bravery and is used to break curses and hexes. Poke is native to North America but also grows in the Mediterranean region. The perennial herb is characterized by a large, fleshy rot, white flowers, and deep purple berries. A clean poke root can be carried in your pocket to enhance courage and bravery to face daunting challenges. An infusion can also be made out of poke leaves to enhance beauty, confidence, and youthfulness. Dried poke leaves and flowers of the violet plant can be sprinkled around the home to help find a lost item. In hoodoo folk medicine, poke is used as a poultice to treat sprains and bruises. When combined with beeswax, poke can be used to make a salve that relieves the pains of arthritis and rheumatism.",
+  "alias": "Poke",
+  "intents": [
+   "疗愈",
+   "驱逐",
+   "净化",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Poppy",
+  "latin": "Papaver rhoeas",
+  "desc": "This famous medicinal plant is used in hoodoo to increase fertility, attract wealth and abundance, and help to overcome bereavement and emotional pain. Poppy is native to Europe but grows in North America and parts of Asia. Poppy has bright red petals and deep green leaves. Dried poppy leaves can be sprinkled around the home to eradicate negative energies. The seeds can also be eaten to increase fertility and boost good health. An infusion made from the poppy leaves helps to deepen an individual’s spiritual connection ti the earth, thereby enhancing psychic abilities. In hoodoo folk medicine, the stems of the poppy plant can be crushed to extract a liquid used to treat insect bites. The petals can as be used to make an infusion used to cure skin infections.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "疗愈",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Primrose",
+  "latin": "Oenothera biennis",
+  "desc": "Primrose is used in hoodoo for spells to ensure the achievement of a particular set target, for successful hunting, to ensure protection from negative spiritual forces, and to imbue a person or home with a feeling of safety and security. Primrose is a tall biennial plant with a stout, erect stem that grows up to five feet high. Primrose is native to North America but grows in parts of Europe and Asia. The petals of the primrose flower can be arranged on the altar to enhance clear divinations. The oil extracted from the primrose is used in hoodoo folk medicine to treat joint pain and inflammations. The oil also helps to calm the uterine muscles to relieve menstrual cramps. An infusion made from the leaves of Primrose can be used to treat obesity.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "成功",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Purslane",
+  "latin": "Portulaca oleracea",
+  "desc": "Purslane is native to North America, North Africa, and South Europe. This herb grows up to sixteen inches in length and is used in hoodoo medicine to repel all forms of spiritual attacks. Dried purslane leaves can be included in an amulet worn on the neck to prevent danger, sickness, and spiritual harm. The dried leaves can also be sprinkled on the hoodoo altar to enhance a practitioner’s psychic abilities. In hoodoo folk medicine, purslane is used in the treatment of headaches, burns, and arthritis.",
+  "alias": "Purslane",
+  "intents": [
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Pyrite",
+  "latin": "",
+  "desc": "Also known as fool’s gold and iron disulfide, pyrite is a significant metal in hoodoo, which is frequently included on hoodoo altars. Pyrite helps to strengthen the natural spiritual energies present within the hoodoo practitioner and enhances psychic abilities. Pyrite is also used to cast spells to protect an individual from spiritual harm and to ward off negative vibrations from a home. Pyrite is useful in spells for spiritual healing and cleansing and to attract love and passion.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "净化",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Quassia",
+  "latin": "Quassia amara",
+  "desc": "The root of the Quassia lant is used in hoodoo to invite love and passion, strengthen relationships and friendships, and help people heal from emotional hurt. Quassia is a magnificent tree that grows up to a hundred feet tall, with flowers that bloom between October and November. The tree is native to Jamaica and bears distinct pea-sized fruits which ripen in January. The Quassia root can be collected, dried, and worn around the neck as an amulet to attract love and passion into one’s life. To prevent a spouse or romantic partner from cheating, Quassia roots can be placed under the bed that both partners sleep on. The bark of the Quassia tree can be boiled in water and then added to bathwater to heal emotional pain and heartbreak. In folk medicine, a decoction made from the Quassia root helps to speed up healing from illnesses, improve appetite, and relieve indigestion. The infusion is also used to treat fevers.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Queen Elizabeth Root",
+  "latin": "Rhizoma iridis",
+  "desc": "Also known as Orris root, the Queen Elizabeth root I used in hoodoo to enhance psychic abilities, shield the home from negative spiritual vibrations, and invite love and passion into a person’s life. The Queen Elizabeth plant can grow as high as six feet and matures in three years. The plant is native to Italy but grows in North America and temperate parts of Europe. To help solve extremely difficult problems, the root can be kept near when meditating to help gain unique insights into possible solutions. The root can also be ground to powder and sprinkled around the home to ward off evil vibrations and attract peace and harmony. The Queen Elizabeth root can also be included in love amulets to attract the desired mate. In hoodoo folk medicine, the juice of the Queen Elizabeth root is extracted and used to clear blemishes, freckles, and acne. When dried, the root is used to cure coughs, hoarse throats, and breathing difficulties. The incense can be burnt in the home to enhance positive spiritual vibrations and ward off illnesses.",
+  "alias": "Queen Elizabeth Root",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Queen’s Root",
+  "latin": "Stillingia sylvatica",
+  "desc": "Queen’s root is native to the Southeastern United States, grows up to four inches in length, and is used in hoodoo folk medicine to enhance urine flow, cure indigestion, and curb excess vomiting. In hoodoo traditional folk magic, queen’s root can be kept in the home to ward off unpleasant energies and protect the home from unwanted visitors and spiritual harm.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Rabbit Foot",
+  "latin": "",
+  "desc": "The foot of a rabbit is considered a powerful good luck charm in hoodoo. Therefore, the rabbit’s foot is used as a key part of spells and charms to attract wealth and good luck. The rabbit’s foot can be included in an amulet carried around by a gambler or trader to increase chances of winning and enhance the inflow of customers, respectively.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "成功"
+  ]
+ },
+ {
+  "name": "Raccoon Penis Bone",
+  "latin": "",
+  "desc": "Raccoon penis bone is used in hoodoo as an element for enhancing male fertility. This bone is also used in spells to improve overall health and vigor and to boos a man’s sexual performance. The bone can be worn on the neck as an amulet or kept beneath the bed to enhance sexual passion and improve fertility.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "生育",
+   "性"
+  ]
+ },
+ {
+  "name": "Raspberry",
+  "latin": "Rubus idaeus",
+  "desc": "Raspberry leaves are used in hoodoo to protect the home from negative vibrations, attract love and passion, and ensure unproblematic childbirths for women. Raspberry plants have upright stems covered in small thorns with bright red berries that bloom between May and July. Raspberries are native to most of Europe and North America. Meditating while burning dried raspberry leaves as incense helps to deepen your connection to the earth and helps to improve focus, concentration, and problem-solving skills. A bunch of raspberry leaves can also be hung over the front door of a home to protect the dwelling and the very single person who enters. When a pregnant woman is about the give birth, the leaves can be placed beneath the bed to reduce the pain of childbirth and ensure safe delivery. In traditional hoodoo medicine, an infusion made with raspberry leaves can be used to cure sore throats or mouth cankers. This infusion can also be sued to clean the surfaces of wounds and abscesses to ensure rapid healing and prevent infections. An infusion made from raspberry and slippery elm leaves can help to accelerate the healing of scalds and burns. The infusion made from raspberry leaves is also effective in curing diarrhea and nausea.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "净化",
+   "生育",
+   "灵性",
+   "智力",
+   "性"
+  ]
+ },
+ {
+  "name": "Rattlesnake",
+  "latin": "Crotalus spp",
+  "desc": "Rattlesnakes are revered in hoodoo for the mysterious spiritual powers that flow through them. The head of a rattlesnake is a powerful element used in amulets to ensure protection from negative spiritual forces and all forms of attacks. Rattlesnakes are also used in charms to attract wealth and good luck.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Rattlesnake Master",
+  "latin": "Eryngium yuccifolium",
+  "desc": "Rattlesnake master is a perennial herb native to North America. The herb is used in hoodoo folk magic to prevent diseases and illnesses and to cleanse the mind, body, and spirit for any negative spiritual vibrations. Dried leaves of the rattlesnake master herb can be sprinkled around the home to ward off any negative spiritual forces. In hoodoo folk medicine, rattlesnake master is used as an antidote to rattlesnake venom.",
+  "alias": "Rattlesnake Master",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Red Brick Dust",
+  "latin": "",
+  "desc": "The dust collected by pounding part of the red brick taken from an old house is an extremely potent element of protection in hoodoo. Red brick dust can be sprinkled at the doorway and window sills of a house to keep out negative spiritual vibrations and enhance peace, harmony, and joy in the house. Red brick dust can also be used as an element of rituals and spells to ward off evil energies from the home, and imbue a dwelling with calmness, prosperity, and tranquility.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Red Onion",
+  "latin": "Allium cepa",
+  "desc": "Red onions are native to Italy and are used in traditional hoodoo folk magic to ward off negative spiritual energies and enhance good health and prosperity. Red onions can simply be kept in the home to absorb negative spiritual vibrations and enhance ease and harmony. In folk medicine, red onions are used to treat inflammations and skin diseases.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Red Pepper",
+  "latin": "Capsicum annuum",
+  "desc": "Red peppers are native to Mexico, Central America, and South America. They are essential parts of various cuisines around the world, and they are used in herbal magic to attract good luck and abundance, protect an individual from negative spiritual energies, and enhance natural psychic abilities. To improve the efficacy of your divinations, a single red pepper can be kept on your altar. In traditional herbal medicine, red pepper can be sued to enhance rapid wound healing.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Rice",
+  "latin": "Oryza sativa",
+  "desc": "Rice is a crop of abundance, wealth, and prosperity. Rice grains are therefore used in hoodoo folk magic to attract wealth and money, and the leaves can be kept in the home to attract peace and abundance and to ward off negative spiritual energies. Rice is native to East Asia but is now grown in North America, Europe, and Africa. Rice is used in herbal medicine to treat dysentery and eradicate skin infections.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Rose",
+  "latin": "Rosaceae",
+  "desc": "Roses are used in traditional hoodoo magic to invite peace, bring love and affection, heal the emotional pain of a loss, and imbue a person with strength and tenacity. Rose is an ancient perennial shrub that originated from Persia. There are over ten thousand rose varieties, most of which bloom between May and September. Rose is primarily used in hoodoo magic to attract love and passion. Rose can be placed on the altar while casting love spells to enhance attraction and deepen the love in a relationship. Rose petals may be sued in spiritual baths to improve self-acceptance and eradicate stress and negative spiritual energies. Roses can also be kept within the home to invite abundance and good luck. In hoodoo folk medicine, the essential oil extracted from the rose flowers is used to purify the liver and ease depression. Rosewater can also help to ease shock and headaches and cure nausea.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "好运",
+   "疗愈",
+   "净化",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Rose of Jericho",
+  "latin": "Anastatica hierochuntica",
+  "desc": "Rose of Jericho is an annual herb native to the Middle East and North Africa. This herb is used in hoodoo for attracting good luck, enhancing a person’s chances of victory in difficult circumstances, and enhances good health and spiritual healing. The herb can be kept in the home to invite positive spiritual energies associated with peace and abundance. In folk medicine, the rose of Jericho is used to relieve menstrual cramps. The leaves of the herb can be made into an infusion to induce labor and ensure smooth delivery in pregnant women.",
+  "alias": "Rose of Jericho",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "成功",
+   "生育",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Rosemary",
+  "latin": "Salvia Rosmarinus",
+  "desc": "Rosemary is an annual evergreen herb native to the Mediterranean. In hoodoo folk-magic, rosemary is burnt as an incense to ward off negative spiritual energy from an environment and invite in positive spiritual vibrations. The herb is also included on the altar to enhance the clarity of divinations. In hoodoo folk medicine, rosemary is used in the treatment of wounds and sores. Practitioners make infusions from Rosemary leaves to improve memory and cognitive abilities. The poultice of the rosemary herb is used to relieve muscular pain.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Safflower",
+  "latin": "Carthamus tinctorius",
+  "desc": "Safflower is an annual herb that originated from ancient Mesopotamia. Safflower thrives in Spain and most parts of temperate Europe and North America. Safflower is used in hoodoo folk magic to attract good luck, wealth, and abundance. The flowers of the plant may be included in the altar to enhance the granting of wishes and desires. Safflower is also used in spells and charms to protect an individual from spiritual harm and ward off negative spiritual vibrations. In hoodoo folk medicine, safflower infusion is used in the treatment of fever and cough. To ease breathing difficulties, the herb may be steeped into boiling water, and the patient is made to inhale the steam.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "好运",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Saffron",
+  "latin": "Crocus sativus",
+  "desc": "Saffron is used in hoodoo folk magic to invite wealth and fortune, enhance visions into the future, and summon joy, happiness, and love into a home or a person’s life. Saffron is a distinct reddish plant with large lily-0shaped flowers. Saffron is commonly found in the Middle East as a native plant, but grows in North America, Europe, and tropical Africa. A pinch of ground saffron can be sprinkled on the tongue to help improve a person’s clairvoyant abilities. Sprinkling bits of ground saffron on a matrimonial bed will help to ensure longevity and lasting love in the union. Saffron can be burnt as an incense in a home to increase the positive spiritual vibrations of love, peace, and joy in the home. In hoodoo folk-magic, saffron is used to make infusions to calm anxiety, cure fever, and relieve indigestion. Saffron can also be used to relieve the pain of menstrual cramps and arrest excessive bleeding.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Sage",
+  "latin": "Salvia officinalis",
+  "desc": "Sage is a member of the mint family native to Asia and the Mediterranean. Sage grows up to three feet tall and has purple, white, or deep red flowers that bloom between June and September. Sage is currently grown across North America and Europe. Sage can be carried in your pocket to sharpen your mind and help you come up with creative ideas. Dried sage leaves can be sprinkled around the home to cleanse the home of negative spiritual vibrations and enhance clear spiritual divinations within the home. Keeping a bundle of sage at the doorway of a house helps to attract success, abundance, and prosperity into the home. Sage is used in hoodoo folk medicine to create an infusion used to treat bleeding gums and sore throats.",
+  "alias": "Sage",
+  "intents": [
+   "财富",
+   "疗愈",
+   "净化",
+   "成功",
+   "灵性",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Saint Ignatius Bean",
+  "latin": "Strychnos ignatii",
+  "desc": "The Saint Ignatius bean plant Is native to the Philippines and China. This herb bears pear-shaped fruits which contain beans. The Saint Ignatius beans are used in hoodoo folk magic to enhance mental clarity and balance. The bean can also help to enhance psychic clarity and improve insightful divinations. In hoodoo folk magic, the Saint Ignatius bean is used to help relieve indigestion, prevent convulsions, and treat extreme fevers.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Salt",
+  "latin": "",
+  "desc": "Sodium chloride or table salt is an essential element in hoodoo folk magic. Sodium chloride is used in rituals and charms to attract abundance, wealth, and happiness. Salt is used for flavoring food. Its unique abilities to improve taste make it viable in hoodoo for charms used to invite positive spiritual energies into a home. Salt is also used for cleansing off negative spiritual energies from a home, and wash away harmful spiritual vibrations from within an individual. Little amounts of table salt can be included in a spiritual bath to ward off all forces of evil and invite calmness and happiness into a person’s life. In hoodoo folk magic, a warm salt solution is used to treat sores, sore throat, dental pain, and nasal congestion.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Saltpeter",
+  "latin": "",
+  "desc": "Potassium nitrate is commonly know as Saltpeter. This compound is primarily used in hoodoo folk magic to remove negative curses and hexes that have been placed on an individual. This process is known as uncrossing, and saltpeter is believed to have supernatural absorbent abilities that help to extract all the negative forces bound to an individual and render them cleansed and free. Saltpeter is also used to gain control over an individual and exert a supernatural influence over them. In hoodoo folk medicine, saltpeter is used to cure food poisoning and relieve indigestion and stomach pain.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "驱逐",
+   "净化"
+  ]
+ },
+ {
+  "name": "Sampson Snake Root",
+  "latin": "Orbexilum pedunculatum",
+  "desc": "Sampson’s snakeroot is a flowering legume native to the Southeastern United States. The herb is a perennial plant that blooms in the summer. In hoodoo folk-magic, Samson’s snakeroot is used to purify and cleanse the mind, body, and spirit. It can also be placed in strategic corners in the home to ward off all evil spiritual forces and invite positive spiritual vibrations into the home. In hoodoo folk medicine, the snakeroot is used to treat snakebites and to cleanse the body of all types of toxins and parasites.",
+  "alias": "Sampson Snake Root",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Sandalwood",
+  "latin": "Santalum album",
+  "desc": "Sandalwood is used in hoodoo folk magic to enhance focus, attention, concentration, and cognitive abilities. Sandalwood is used for love attraction and deepening passion, improving psychic abilities, and summoning powerful spirits to help solve difficult problems. The sandalwood tree native to India, Malaysia, and Australia. This semi-parasitic evergreen tree grows up to thirty feet high and has a smooth, grayish-brown bark. Sandalwood can be burnt as incense to give a pleasant, heady smell that helps aids insightful meditation and helps to fill a home with positive spiritual energies. Sandalwood can be placed on the altar to summon powerful spirits to solve knotty problems. Placing sandalwood on the forehead while meditating helps to expand one’s thought and improves clairvoyance. In hoodoo folk medicine, sandalwood is made into an infusion to treat chronic bronchitis and gonorrhea. As a poultice, sandalwood can be used to treat joint pain and rheumatism. Epsom salt and sandalwood can be combined in a spiritual bath to cleanse the entire body of toxins and disease-causing parasites.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "净化",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Sarsaparilla root",
+  "latin": "Smilax ornata",
+  "desc": "Sarsaparilla root is a thick, flexible plant that is native to the Southern United States. The flowers bloom between May and August and ripen into red and blackberries. The root can be burnt as an incense in hoodoo folk magic to attract money and abundance. To make good financial decisions in tricky situations, you can simply meditate with the root in your right hand to get clearer visions about the appropriate financial decision to take. To attract love and deepen the passion in a relationship, you can wear the sarsaparilla root on your neck as an amulet when you go out in search of love or when spending time with your partner. To attract abundance, sandalwood can be combined with cinnamon in a mojo hand. In hoodoo folk medicine, sarsaparilla root can be made into a decoction that is potent in treating open wounds and sores. The decoction is also helpful in treating anxiety and eradicating stress and muscular tension.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Sassafras",
+  "latin": "Sassafras albidum",
+  "desc": "The sassafras tree is native to Eastern North America and grows up to fifty feet tall. The barks and roots of the tree have a characteristic fragrant smell and a caustic, bitter taste. To attract money, wealth, and abundance, a piece of sassafras may be placed in your wallet or purse. To experience a sense of calmness, happiness, and a general feeling of security, sassafras can be burnt as an incense in the home, especially while meditating. A piece of dried sassafras placed underneath your pillow before sleeping will help to chase off nightmares and ensure relaxing, energizing sleep. In hoodoo folk-magic, sassafras is combined with sarsaparilla root to treat rheumatism, syphilis, and skin disorders. AN infusion made from sassafras leaves can also be used to treat mouth infections.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Scammony",
+  "latin": "Convolvulus scammonia",
+  "desc": "Scammony is native to the Eastern Mediterranean region and is used in hoodoo folk magic to provide protection from negative spiritual influences. Dried scammony leaves can be placed in amulets to help invite positive spiritual vibrations and ward off harmful energies. Scammony leaves can also be sprinkled around the home to banish any forces of evil from home and attract love, abundance, and peace. In hoodoo herbal medicine, scammony is used as a laxative to ease indigestion. Practitioners also use it to treat stomach aches and can help to stop vomiting.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "疗愈",
+   "驱逐",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Self-heal or Heal-all",
+  "latin": "Prunella vulgaris",
+  "desc": "Self-heal or Heal-all is edible and medicinal. It can be used in salads and soups, or boiled as a tisane (tea) and used medicinally. It is really a sort of panacea, as it’s name implies! It was once called a holy herb, and people claimed it was sent by God to help cure them of all earthly ailments. In these tales, it was said to drive away disease and the devil himself. It can be used as part of any healing work in general. Added to ointments, and salves, or oils – it brings healing energy to the work being done with the plant. Spiritually, allheal can help with spiritual growth and help to give people hope. Purple is often associated with spiritual energies, and allheals beautiful purple blooms are a perfect match. Some like to include it in purifying floorwashes. It has been a part of hunter's magic; the Ojibwa made the root (which hot and bitter, would be ruled by Mars) into a drink consumed to sharpen the eyes before hunting.",
+  "alias": "Self-heal or Heal-all",
+  "intents": [
+   "疗愈",
+   "驱逐",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Seneca Snakeroot",
+  "latin": "Polygala seneca",
+  "desc": "Seneca snakeroot is a flowering plant native to North America that also grows in Canada and parts of Europe. This herb, like most snakeroots, is used in hoodoo to ward off negativity and imbue a person or household with supernatural protection. Seneca snakeroot leaves can be hung at the doorway and placed at window sills to prevent any negative spiritual forces from gaining access to the home. The root can also be placed on the alter to enhance the efficacy of divination. In hoodoo folk medicine, the Seneca snakeroot is used to treat snakebites and to ease respiratory difficulties.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Senna",
+  "latin": "Cassia acutifolia",
+  "desc": "Senna is a shrub native to North Africa and Arabia. The shrub has a smooth, erect stem and small, vibrant yellow flowers. Senna is primarily used in spells to attract love and passion. The leaves can be ground into a powder wrapped into an amulet to be worn around the neck to attract the desired soulmate. Senna can also be sprinkled on the altar to attract beauty, joy, and excitement into your life. In hoodoo folk medicine, a bath containing senna can be used to cleanse the entire body of parasites and toxins. An infusion made from senna leaves can also be used to ease constipation, indigestion, and gas. Cloves, cinnamon, and senna can be used to make an infusion to treat nausea.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "净化"
+  ]
+ },
+ {
+  "name": "Shame Brier",
+  "latin": "Mimosa nuttallii",
+  "desc": "Shame brier is uniquely named because of its tendency to fold up when touched. The plant has receptors on the surface of the leaf that make it close up when the plant is touched. Shame brier grows up to four feet tall with flowers that bloom between May and September. Shame Brier is native to North America and is used to invite safety, protection, and peace into a home. Shame brier leaves can be scattered around the house to invite an aura of love and healing into the home. Shame brier leaves can also be placed beneath a pillow when sleeping to deepen your spiritual connection to the divine and prevent nightmares. The infusion made from the leaves of the plant may also be included in bathwater to eradicate negative spiritual vibrations from your body and help you feel calm and protected. In hoodoo folk medicine, shame brier is used for flushing out bacterial infections. The infusion made from the leaves can help to ease muscle pain, improve urine flow, and calm stiff nerves.",
+  "alias": "Shame Brier",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Silver Dime",
+  "latin": "",
+  "desc": "A silver dime is a type of coin minted in the United States and used as a legal tender between the 1920s and the 1960s. Silver dimes are used in spells and mojo bags to attract riches, abundance, and wealth. Keeping a silver dime in a wallet or purse can help to attract money and good luck. Silver dimes may also be used in specialized gris-gris bags and mojo bags for gamblers to invite good luck and improve chances of winning.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "成功",
+   "正义"
+  ]
+ },
+ {
+  "name": "Skullcap",
+  "latin": "Scutellaria galericulata",
+  "desc": "Skullcap is a perennial herb with a short rhizome and stems that grow up to two feet in length. Skullcap is indigenous to North America and thrives predominantly between New York and West Virginia and in the Southern US states of South Carolina, Alabama, and Missouri. Skullcap has characteristic hooded flowers that bloom between May and August. Skullcap can be burnt as an incense to bring peace, order, and calmness into your life. The positive energies that the incense generates will also help to fill the home with auras of peace and harmony. Keeping skullcap leaves on your later can also help to achieve clearer divinations. Drinking an infusion made out of skullcap leaves can help to strengthen a person’s psychic abilities and achieve insightful meditations. Sprinkling skullcap at the site of a wedding can help to make the marriage last long and imbue the relationship with enduring love and passion. In hoodoo folk medicine, a skullcap is used in treating inflammations, easing muscle cramps and spasms, and improving sleep. An infusion made from skullcap is also used ti treat epilepsy and anxiety. If a person is struggling with withdrawal symptoms caused by quitting an addictive substance, then skullcap can be used to reduce the cravings for the drugs. Skullcap is not suitable for use by pregnant women as it is known to cause miscarriages.",
+  "alias": "Skullcap",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "生育",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Skunk Cabbage",
+  "latin": "Symplocarpus foetidus",
+  "desc": "Skunk cabbage is so named because of the characteristic fetid smell that is released when the leaf of this plant is torn. Skunk cabbage is native to North America and grows mainly in wetlands and marshes. It also thrives in Europe and parts of Asia. Skunk cabbage is used to ward off negative spiritual energies and summon spiritual healing and protection into the life of an individual. In hoodoo folk medicine, skunk cabbage is used as a worm expellant, and is also used to treat scabies and rheumatism.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Slippery Elm",
+  "latin": "Ulmus rubra",
+  "desc": "Slippery elm is a deciduous medium-sized tree that typically grows up to sixty feet in height. The slippery elm tree is found mostly in North America where it is a native plant. It thrives primarily in fields in North Dakota, Maine, Florida, and Texas. The inner part of the bark is used to treat open wounds and accelerate healing. The infusion made from the leaves of this plant is used to treat chronic cough, sore throat, boils, ulcers, and an upset stomach. In hoodoo folk-magic, slippery elm can be sprinkled to the four corners is a home to get rid of negative spiritual vibrations and ward off envy and jealousy.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Smart Weed",
+  "latin": "Polygonum spp",
+  "desc": "Smartweed is a close relative of knotweed native to North America. The juice extracted from the eaves of knotweed has a characteristic sharp, peppery flavor. In hoodoo folk-magic, smartweed is used for achieving increased enlightenment from meditations and improve natural psychic abilities. Smartweed can also b dried and sprinkled around the home to imbue the environment with positive spiritual auras and ward away negativity. In hoodoo folk medicine, smartweed is used to make an infusion that is used to arrest bleeding from hemorrhoids and curb menstrual pain. The poultice made from the leaves is also used to disinfect wounds and accelerate healing.",
+  "alias": "Smart Weed",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Snail",
+  "latin": "Cornu aspersum",
+  "desc": "Several species of land snails across different habitats across the world from Africa and Asia to the Americas, Australia, and Europe. Snails are used to make charms to enhance protection and increase spiritual strength and vigor. Snails are also important spiritual components of rituals to attract wealth and prosperity. Snails’ slime trail, let behind where snails have crawled past, can be used to remove warts and treat minor skin infections. The shell of the snail is also used to treat wounds and calm fevers.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Snake",
+  "latin": "",
+  "desc": "Several species of snakes are also found colonizing different parts of the globe. Different parts of snakes are sued for different purposes. The head of a snake, for instance, may be used in charms to gain spiritual control over someone and get them to do your bidding. Snake oil is one of the most popular spiritual elements in the world, and the origins of this mystic liquid can be traced to China. Snake oil is a special tincture used to treat inflammations and arthritis. In folk medicine, snake oil may be used to eradicate negative spiritual vibrations, invite wealth, prosperity, and ease, and enhance psychic capabilities. The skin of snakes are also magically potent elements. Snakeskin is a symbol of change and is, therefore, a potent component of spells to enhance positive transformation and promotion. Snakeskin can also be used in amulets for protection and safety from negative spiritual vibrations. In hoodoo folk medicine, snakeskin can be used to cure seizures and epilepsy and treat open wounds to accelerate healing.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Snake Head",
+  "latin": "Balmony / Chelone glabra",
+  "desc": "Balmony is a perennial herb native to North America, thriving in most parts of the United States and Canada. Balmony is an important component of spells used in cursing or hexing an enemy or adversary. Balmony also imbues you with patience and emotional strength and gives you a supernatural tenacity to confront life’s most pressing problems. Snakehead has white flowers that bloom between May and July, and these flowers form a characteristic shape that closely resembles the head of a snake; hence the name snakehead. To gain control over a person using balmony, simply sprinkle bits of dried balmony on the person’s picture and whisper whatever commands you would love them to follow. In hoodoo folk medicine, balmony is used to treat bloody coughs, cleanse the liver and gall bladder, and expel worms from the body.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "驱逐",
+   "净化",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Snakeweed",
+  "latin": "Gutierrezia sarothrae",
+  "desc": "Snakeweed is native to North America, growing predominantly in Western Canada and Northern Mexico. Snakeweed is used in hoodoo magic for charms to attract good luck and abundance. Snakeweed can be sprinkled around a home to eradicate all evil forces and cleanse the environment. An amulet containing snakeweed will help to repel all negative spiritual forces and reveal friends with evil intentions. Hen combined with frankincense and burnt as an incense, snakeweed can help to attract good luck and wealth. In hoodoo folk medicine, snakeweed can be steeped in hot water, and the steam is then inhaled to ease respiratory difficulties. The decoction of the herb also helps to cure coughs, colds, and dizziness.",
+  "alias": "Snakeweed",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Solomon’s Seal",
+  "latin": "Polygonatum multiflorum",
+  "desc": "Solomon’s seal is indigenous to Northern Europe and Siberia. The herb grows up to two feet tall and is characterized by a thick creeping root and clusters of pale red flowers. The dried leaves of Solomon’s seal herb can be burnt as an incense to attract wisdom and understanding and to achieve insightful meditations and visualizations. The smoke from the incense also helps to cleanse the home of all negative spiritual vibrations and invites peace, happiness, and joy to reside within. The root of the plant can be cut and placed in strategic points within the home to protect the home from unwanted visitors and evil machinations. In hoodoo herbal medicine, Solomon’s seal can be made into an infusion to treat bloody coughs. The infusion also helps to relieve menstrual pain and regulates a woman’s menstrual cycle. The root can also be ground into powder and used to make a poultice to treat bruises, inflammations, and tumors on the skin surface. Solomon’s seal is combined with beeswax to make a salve to treat bruises and cuts.",
+  "alias": "Solomon’s Seal",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性",
+   "平和",
+   "智力",
+   "性"
+  ]
+ },
+ {
+  "name": "Southern John Root",
+  "latin": "Trillium spp",
+  "desc": "The Southern John plant is native to North America and parts of Asia. In hoodoo folk magic, the root is used in charms and spells to attract money and luck. An amulet made out of the root can be used to attract a lover or strengthen a failing relationship. The root can also be placed under a bed to deepen sexual passion between lovers. The root can be ground and sprinkled around a home to attract wealth and prosperity. Bits of the rot can also be placed in a purse or wallet to invite abundance and money. A decoction made out of the root can be sued as a uterine stimulant to induce labor and ease the pains of childbirth. The decoction may also be used to arrest diarrhea.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "好运",
+   "疗愈",
+   "生育",
+   "勇气",
+   "性"
+  ]
+ },
+ {
+  "name": "Southernwood",
+  "latin": "Artemisia abrotanum",
+  "desc": "Southernwood is a flowering plant of the sunflower family. This herb is native to Europe, Asia, and Africa. Southernwood, however, now grows in most parts of North America. This herb can be dried and ground into a powder which can be carried in a sachet to attract love and passion and strengthen the bond between a couple. The leaves can also be burnt as incense to improve psychic abilities and achieve more insightful divinations. Southernwood can also be sprinkled around a home to attract peace and tranquility and ward off evil spiritual forces that cause chaos and unrest. Southernwood is used in hoodoo folk magic to disinfect wounds and accelerate healing. An infusion made from the leaves can help to cure coughs and colds, diarrhea, and tumors.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Spanish Moss",
+  "latin": "Tillandsia usneoides",
+  "desc": "Spanish moss is an epiphyte that can only survive on the surface of other trees. Spanish moss is native to New Mexico, Bermuda, and Central America. The plant has extensive creeping roots, which allow it to derive nutrients from the parent tree. Spanish moss can be found on bigger trees like cassia, sequoia, mahogany, and sweet gum. This epiphytic moss is used in hoodoo magic to stuff hoodoo dolls. These dolls can now be customized to attract the desired lover, curse an enemy, or control an intended target. Spanish moss can also help to bring spiritual healing and repel negative spiritual forces from the home when sprinkled all over the surroundings. The leaves of the herb are used in hoodoo folk medicine to make a poultice to treat rheumatism, hemorrhoids, and open wounds.",
+  "alias": "Spanish Moss",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Spikenard",
+  "latin": "Aralia racemosa",
+  "desc": "Spikenard is used in hoodoo to invite love and attraction, prevent infidelity and straying in relationships, and solve pressing problems. Spikenard is indigenous to North America and grows up to six feet in some cases. Small greenish flowers bloom between July and August. Spikenard produces round, deep purple berries. To attract love and passion, you can pop a few spikenard berries into an amulet and wear them around your neck. Hanging a branch of spikenard over a front door can help to strengthen the bond of family within the home. Pieces of the roots and berries of the spikenard pant can also be -placed on the alter to increase psychic abilities and enhance enlightening meditations. In hoodoo folk medicine, a decoction made from the roots of spikenard can be sued to relieve backaches and chest pain. Spinekard plants infusions are used to ease the pains of childbirth. A poultice from the roots of the spikenard plant is used to treat wounds, prevent infections, and mend broken bones. The juice from the berries of spikenard is used to treat earaches.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "生育",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Squaw Vine",
+  "latin": "Mitchella repens",
+  "desc": "Squaw vine is used in hoodoo to open up the mind to new possibilities, repel envy and jealousy, and increase confidence, courage, and decisiveness. Squaw vine is indigenous to the United States. The plant has creeping vines that grow very close to the ground with small reddish flowers that bloom between June and July. The berries of squaw vine can be used in amulets and charms to attract love and sexual partners. Placing the berries of the squaw vine plant on the alter helps to increase the quality of divination and improve psychic abilities. The leaves of the plant are also used to make a spiritual bath which can help to cleanse a pregnant woman and protect her child from any negative forces. In hoodoo folk medicine, squaw vine is used to ease the pains of labor. Squaw vine infusions help to relieve menstrual pains and cure urinary tract infections. The infusion can also be added to bathwater to ease stiff joints from rheumatism.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "净化",
+   "生育",
+   "灵性",
+   "勇气",
+   "智力",
+   "性"
+  ]
+ },
+ {
+  "name": "Squill",
+  "latin": "Drimia marirtima",
+  "desc": "Squill is native to Eurasia and North Africa. The herb is characterized by a large bulb that bears a rosette of leaves. Squill is generally found in rocky, coastal habitats. In hoodoo medicine, squill is used to treat jaundice, prevent convulsions in cases of high fever, and relieve coughing and breathing difficulties as a result of asthma. An infusion made from the eaves is a potent laxative to ease stooling and treat indigestion. In hoodoo folk magic, the bulb bearing the rosette of leaves can be hung on the front door of the house to repel evil spirits and protect the home from all forms of harmful spiritual vibrations. To attract money and wealth, the dried leaves of the plant can be kept in a purse or wallet.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "财富",
+   "疗愈",
+   "驱逐",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Star Anise",
+  "latin": "Illicium verum",
+  "desc": "Star anise is named after its characteristic star-shaped leaves. This evergreen herb is indigenous to China and Vietnam and grows in parts of Europe and North America. Star Anise produces hard, brownish seedpods, which can be processed to give a powerful, fragrant oil. A whole fruit from the star anise plant can be placed strategically at each of the four corners of a dwelling to invite good luck and abundance into the home. The fruit can also be included on the hoodoo altar to enhance psychic clarity and increase the frequencies of positive spiritual vibrations. Putting star anise under a pillow used to sleep can help you to visualize events yet to occur while you sleep. In hoodoo folk medicine, the star anise fruit can be used to treat colic in babies. The juice from the fruit can also be used to make a poultice to treat rheumatism. The fruit also helps to relieve upset stomachs.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Sulfur",
+  "latin": "",
+  "desc": "Elemental sulfur is a soft yellow solid. This element is used in hoodoo folk magic to purify a space and purge it of all negative vibrations and evil forces, Sulfur can also be used in protection spells and amulets to ward off negative emerges and ensure safety and security during travels. In hoodoo herbal folk medicine, sulfur can be used to ease pain and redness on the skin, cure inflammations, and ease muscular aches.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化"
+  ]
+ },
+ {
+  "name": "Sumac Berries",
+  "latin": "Rhus glabra",
+  "desc": "The sumac plant is a magnificent fifteen-foot-tall herb with magnificent reddish-green foliage and pale gray bark. Sumac Berries are found mostly in North America as native plants. They grows in clumps in abandoned lands across the United States, Canada, and parts of Southern Europe. Dried and ground leaves of Sumac Berries can be sprinkled around the home to bring peace and harmony. A small pile of berries can be arranged at the four corners of the home to avoid conflicts and enhance the resolution of quarrels and misunderstandings. When heading to court for a trial or hearing, carrying nine sumac berries in your pockets helps to ensure that you get a lenient verdict. In hoodoo folk medicine, the bark of the sumac tree is used to make a decoction that is used to treat Sexually-transmitted diseases. The decoction can be combined with slippery elm to treat dental pain, mouth sores, and a sore throat. The mixture can also be used to disinfect wounds and accelerate the healing of lesions and sores.",
+  "alias": "Sumac Berries",
+  "intents": [
+   "疗愈",
+   "正义",
+   "平和",
+   "性"
+  ]
+ },
+ {
+  "name": "Sweet Gum",
+  "latin": "Liquidambar styraciflua",
+  "desc": "Sweetgum is also known as American storax, and this huge magnificent tree is native to North and Central America and Mexico. The tree also grows in temperate regions of Europe and Asia. Sweet gum tree’s fruits are used in hoodoo folk magic to make amulets for protection and ward off evil energies from a home. A bunch of the berries can be hung from a doorway or placed at window sills to prevent the entry of unwanted visitors and purge the home of harmful vibrations. The fruits of the tree can also be collected and placed on the altar to improve psychic abilities. In hoodoo folk medicine, the fruit of the sweet gum tree can be used to ease the pains of rheumatism and swellings at the joints. A decoction made from the bark of the tree is used to arrest excessive bleeding after a wound. The resin collected from the tree is used to treat cough and inflammations",
+  "alias": "Sweeteners [Cane Syrup, Corn Syrup, Honey, Molasses, Sugar]: Sweeteners have diverse magical and medicinal applications in the traditional hoodoo practice. Sweeteners like honey and sugar are used as antiseptics to treat wounds and facilitate healing. Honey can be mixed with warm water to cure coughs and colds, soothe a sore throat and clear out a hoarse voice. Sweeteners are also used in hoodoo magic for cleansing a person of negative spiritual influences. Honey is used in spiritual baths to enhance beauty and youthfulness, while sugar is used in charms and spells to attract love and passion into a person’s life. Sweeteners can be sprinkled around the home to attract joy, happiness, and positive spiritual vibrations into the home.",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Tansy",
+  "latin": "Tanacetum vulgare",
+  "desc": "Tansy is a resilient perennial herb with an erect, bald stem and bright yellow flowers. The herb is native to Asia and Europe, but it grows in most parts of the United States and Canada. Tansy is used in hoodoo folk magic to eradicate spiritual vibrations that cause disease and illnesses. Therefore, to ensure long-term good health, strength, and vigor for an entire household, simply hand a sprig of tansy in the doorway. Tansy can also be used to fan a sick person to ensure rapid healing. The plant must be burnt or buried immediately after being used for this purpose so that the negative spiritual energies of the disease can be completely eradicated. Dred tansy can be sprinkled into shoes before traveling to ensure safe and comfortable voyages. In herbal folk medicine, tansy is used to cleanse the kidney and treat urinary tract infections. Tansy leave infusions are used to relieve indigestion and ease stomach cramps that arise due to menstruation.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Tea",
+  "latin": "Camellia sinensis",
+  "desc": "Tea is a commercially significant plant that has been recognized as a valuable commodity for centuries. Tea originates from East Asia but is now grown in most parts of America, Europe, and tropical Africa. Tea leaves can be dried and burnt as an incense to ward off negative spiritual energies and increase the efficacy of divination. Tea leaves can also be kept in the home to invite auras of peace, calmness, and tranquility. Placing tea leaves beneath your pillows enhances sound sleep and prevents nightmares. In hoodoo folk medicine, tea leaves are used to treat high levels of blood sugar and to disinfect wounds. The extract from tea leaves can also be used to reduce the sting of insect bites.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Tenbark",
+  "latin": "Cinchona officinalis",
+  "desc": "Ten bark is native to South America but is currently found in Africa, India, and Central America. The decoction made from the bark of the Cinchona tree can be used to heal fever. The bark contains high levels of quinine, which helps to cure malaria. The decoction also helps to increase a sick person’s appetite, addresses bloating, and eases stomach disorders. Ten bark is used in hoodoo folk magic to attract good luck and strengthen the love and passion in a relationship. Ten bark is also used to protect the home from harmful spiritual forces.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "好运",
+   "疗愈",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Thyme",
+  "latin": "Thymus serpyllum",
+  "desc": "Thyme is used in hoodoo to enhance relaxing sleep, purge the home of negative spiritual energies, and attract love and passion into the home. Thyme thrives in North America, Europe, and parts of Asia. Thyme grows up to six inches and has uniquely fragrant leaves characteristic of the mint family. The flowers of the thyme plant bloom in the summer. Dried thyme leaves can be burned as an incense to ward off negative spiritual energies from home. An infusion of thyme added to bathwater can also help to infuse a person with a feeling of peace, tranquility, and calmness. An amulet made from dried thyme can be worn around the neck to attract love and favor from the desired love interest. Thyme leaves can also be arranged underneath a pillow to eradicate bad dreams and ensure a good night’s rest. In hoodoo folk medicine, thyme leaves are made into infusions to treat chest pain. Mixing honey into the thyme infusion calms anxiety and relieves chronic headaches.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈",
+   "净化",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Tobacco",
+  "latin": "Nicotiana tabacum",
+  "desc": "Tobacco is used to purify an environment, expunge negativity, and improve psychic abilities. Tobacco is native to North America and is currently grown in China, Turkey, and tropical Africa. Tobacco is an annual plant with characteristic wrinkled oval leaves. Dried tobacco leaves can be burnt as an incense to eradicate negative spiritual vibrations from a space. Tobacco smoke also helps to clear the mind and enhances insightful divinations. Sprinkling tobacco and ground cornmeal along the perimeter of a property helps to ward off forces of evil and ensures the safety and protection of the inhabitants. People planning to go on a ship or boat trip can sprinkle a pinch of dried tobacco into a water body before boarding to help ensure safety and prevent any accidents. Dried tobacco and cornmeal are also traditionally used to express appreciation to the spirits after a successful ritual or spell.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "净化",
+   "成功",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Unicorn Root",
+  "latin": "Aletris farinosa",
+  "desc": "Unicorn root is a perennial member of the lily family native to North America. The unicorn root currently grows in parts of the United States, Canada, and Mexico. The herb can be sprinkled across the home to ward off evil energies and enhance spiritual protection and a feeling of safety and wellbeing. Two pieces of the root can be used to make a cross, which is then hung at the doorway of the home to prevent unwanted visitors. Carrying a sachet of the dried unicorn root when you have a court case can help to ensure a favorable verdict. In traditional hoodoo folk medicine, unicorn root can be used to make a decoction to relieve an upset stomach and cure urinary tract infections.",
+  "alias": "Unicorn Root",
+  "intents": [
+   "保护",
+   "疗愈",
+   "正义",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Vandal Root",
+  "latin": "Glycyrrhiza glabra",
+  "desc": "Also known as valerian root, the vandal root is used in hoodoo folk magic to attract love, ensure refreshing and relaxing sleep, and establish a powerful barrier around the home to repel all forms of negative energies. Vandal root has a grooved, hollow stem with a shirt fibrous root. A perennial herb, Vandal Roots are found natively in Europe and northern Asia. The root can be hung over the front door of the home to prevent negative energies from entering the home. The root can be used to make an amulet that is worn around the neck to attract love. The root can also be used to prevent conflicts and resolve long-standing quarrels. In hoodoo folk medicine, vandal root is used as a painkiller to relieve muscle aches, joint pain, and the pain of wounds, burns, and scalds. The root is also used to make a decoction that helps to enhance good sleep.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "疗愈"
+  ]
+ },
+ {
+  "name": "Vanilla",
+  "latin": "Vanilla planifolia",
+  "desc": "The vanilla herb is primarily used in traditional hoodoo folk medicine to attract love and passion. The herb is also useful in helping to clear the mind and improving a practitioner’s psychic capabilities. Vanilla is actually a seedpod produced by an orchid native to Mexico. Vanilla beans are rare and expensive and hence must be used sparingly. A vanilla bean can be placed in a bowl containing sugar to strengthen the bond of family within a home and increase loving communications. A vanilla bean can also be kept in coarse salt to purge an area of any negative spiritual vibrations. The bean can also be carried in a wallet to attract wealth, money, and abundance.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "净化",
+   "灵性",
+   "勇气",
+   "平和",
+   "智力"
+  ]
+ },
+ {
+  "name": "Verbena",
+  "latin": "Verbena officinalis",
+  "desc": "Verbena is used in hoodoo to chase away negative spirits and attract love. Verbena, also known as vervain, is native to Europe and North America. Verbena is a perennial herb with pale lilac flowers. A small sprig of verbena can be kept in your pocket to ward away negative spirits and keep evil vibrations at bay. Verbena can be buried near the home to attract money and abundance. Verbena can also be added to a floor wash to cleanse a home or space of all negative vibrations and attract good luck, peace, and tranquility. In hoodoo folk medicine, verbena is used to ease fevers and reduce the pain of ulcers. Verbena can also be made into a poultice to treat rheumatism.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "爱情",
+   "财富",
+   "好运",
+   "疗愈",
+   "驱逐",
+   "净化",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Vetiver",
+  "latin": "Chrysopogon zizanioides",
+  "desc": "Vetiver is a perennial bunchgrass native to India and grows in parts of tropical North America, Europe, and Africa. Vetiver is used in hoodoo folk magic to lift the mood in a home and imbue a space with peace, joy, and tranquility. Vetiver can also be sprinkled around a home to ward off all negative energies and invite positive spiritual auras into the building. Vetiver can also be included in an amulet to ensure protection from spiritual and physical harm. Vetiver is also used to facilitate spiritual healing and cleansing. Vetiver is used in traditional hoodoo folk medicine as a poultice to reduce the pain of arthritis, stings, burns, and rheumatism. The infusion can also be used to treat insomnia.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "净化",
+   "灵性",
+   "平和"
+  ]
+ },
+ {
+  "name": "Vinegar",
+  "latin": "",
+  "desc": "Vinegar, also known as acetic acid, is fermented ethanol. In hoodoo, vinegar used for medicinal and magical uses is mostly fermented apple cider. Vinegar is present all over the globe and can be made from a variety of base alcohols. In hoodoo folk medicine, vinegar can be used to soothe a sore throat, treat skin infections, and stop hiccups. In hoodoo folk-magic, vinegar can be sprinkled around the home to eradicate negative spiritual energies and enhance the positive spiritual vibrations in the dwelling. Vinegar is also an important element of spells to protect people, banish enemies, and banish enemies preventing success.",
+  "alias": "",
+  "intents": [
+   "保护",
+   "疗愈",
+   "驱逐",
+   "成功",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Violet",
+  "latin": "Viola odorata",
+  "desc": "Violet is primarily used in hoodoo to attract love and passion and strengthen the bond of friendships and relationships. Violet also invites joy, ease, and happiness. Violets are characterized by heart-shaped leaves and light purplish flowers. The flowers have a characteristic sweet scent. Violets are native to North America and Europe but also grow in parts of Asia and tropical Africa. Keeping sprigs of violet in the home is used to attract love and positive spiritual energies onto the home. Violets can also be made into an amulet to attract a lover and attract positive spiritual auras. Violets can be placed on an altar to improve psychic abilities and enhance divinations. In hoodoo folk medicine, violets can be used to make an infusion to cure indigestion and ease an upset stomach. The violet infusion can also be used to curb inflammations, soothe a sore throat and reduce stress and anxiety.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "疗愈",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Virginia Snakeroot",
+  "latin": "Aristolochia serpentaria",
+  "desc": "The Virginia snakeroot is a perennial flowering plant native to North America. Keeping this root in the home can help to prevent the entry and action of evil supernatural forces. The snakeroot is also used in uncrossing spells to reverse the effects of a curse or destructive spell. The snakeroot is also a common component of spiritual baths and floor washes to help cleanse an individual and environment of all negative spiritual forces and attract positive auras of strength and beauty. In hoodoo folk medicine, the snakeroot is used to cure fevers and cold and to relieve the pains of sore muscles and stiff joints. The active biochemical component in the root, aristolochic acid, makes sit potent in accelerating healing and treating snakebites.",
+  "alias": "Virginia Snakeroot",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Wahoo",
+  "latin": "Euonymus atropurpureus",
+  "desc": "The wahoo plant, also known as the spindle tree, is a smooth-leaved shrub native to North America and Europe. The plant bears colorful red berries which are not fit for consumption. In hoodoo herbal magic, the wahoo root is used to attract success and abundance by cutting it into pieces and spreading the bits around the home. The roots and bark of the herb can also be used to imbue the soul with courage and give a person the tenacity to carry out difficult tasks. In hoodoo herbal medicine, wahoo root is used in small doses to ease indigestion. The decoction is also used to cleanse the liver and arrest fevers.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "净化",
+   "成功",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Walnut",
+  "latin": "Juglans nigra",
+  "desc": "Walnut is used in hoodoo to increase fertility and improve psychic abilities. Walnuts are native to Persia and now grow in Europe and most of the Northern hemisphere. Walnut trees have huge trunks and grow up to sixty feet tall. The walnut tree bears edible nuts after ten years of growth, and the nits ripen in September. The oil extracted from walnuts can be used to light an oil lamp to enhance psychic abilities and improve the clarity of divinations. To aid conception, walnuts can be placed beneath the matrimonial bed prior to copulation. Walnuts can also be held during meditations to help find solutions to complex problems.",
+  "alias": "",
+  "intents": [
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Whiskey",
+  "latin": "",
+  "desc": "Whiskey has been renowned in hoodoo as an element for blessing and attracting abundance and good luck. Whiskey is used in hoodoo folk magic for exorcism and to eradicate evil spirits from an environment. Whiskey can be sprinkled at the doorways and windows of a home to remove negative spiritual vibrations from a home. Whiskey can also be used in potions to ensure change, progress, and transformation. Whiskey is combined with rosemary to make potions to strengthen friendships and heal emotional wounds. To cleanse an area of adverse vibrations, whiskey can be sprinkled into a floor wash to clean out the home. In hoodoo folk medicine, whiskey is used to soothe sore throats, cure menstrual pain, and calm fevers.",
+  "alias": "",
+  "intents": [
+   "财富",
+   "好运",
+   "疗愈",
+   "驱逐",
+   "净化",
+   "灵性",
+   "勇气"
+  ]
+ },
+ {
+  "name": "Willow",
+  "latin": "Salix alba",
+  "desc": "The willow tree is another large, historically significant tree in American and European cultures. Willow has flexible branches and a rough gray bark, which can be easily pulled off to make decoctions and amulets. Willow is often found near rivers and other water bodies. In hoodoo folk magic, the willow tree can be used to create makeshift brooms, which are then used to cleanse an area of negative auras and chase away evil spirits. Willow can also be kept on the altar to enhance a practitioner’s psychic abilities and enhance the clarity of divinations. Keeping a willow branch under the bed, you sleep on can help to attract your true soulmate. In hoodoo folk medicine, the willow bark is used to make a decoction to soothe sore throats, reduce fevers, and treat joint pain. The poultice made from the bark is used to disinfect open wounds and accelerate healing.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "驱逐",
+   "净化",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Wintergreen",
+  "latin": "Gaultheria procumbens",
+  "desc": "Wintergreen is a small shrub native to North America. The herb grows up to about six inches in height and has drooping white flowers that bloom between June and July. Wintergreen is used in hoodoo folk magic to protect children from negative spiritual vibrations and ensure rapid growth, development, and success. Wintergreem dried leaves are ground and sprinkled all around the home to ensure protection and repel evil machinations and spiritual attacks. An infusion of wintergreen leaves can be included in a spiritual bath to wash off stress and anxiety and fill a person with a renewed sense of calmness, joy, and hope. In hoodoo herbal medicine, wintergreen is externally applied to relieve the pains of arthritis.",
+  "alias": "Wintergreen",
+  "intents": [
+   "保护",
+   "疗愈",
+   "驱逐",
+   "成功",
+   "生育",
+   "灵性"
+  ]
+ },
+ {
+  "name": "Wormwood",
+  "latin": "Artemisia absinthium",
+  "desc": "Wormwood is used to attract love and summon protection against evil spirits and spiritual attacks. Wormwood is a perennial plant native to the Mediterranean with small yellow flowers that bloom in July and August. The wormwood tree is now found in North America and parts of Europe. Dried wormwood leaves can be burned as incense to eradicate all negative spirits in an environment and enhance psychic abilities. The leaves can also be included in protective amulets to ward off negative spiritual energies. Wormwood is currently banned by the Food and Drug Administration in the United States, as it is said to alter a person’s state of mind.",
+  "alias": "Wormwood",
+  "intents": [
+   "保护",
+   "爱情",
+   "驱逐",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Yarrow",
+  "latin": "Achillea millefolium",
+  "desc": "Yarrow is native to Asia and Europe. This luxuriant herb is almost three feet tall and has pale lilac flowers that bloom from June to September. Yarrow can be carried in one’s pocket to eradicate fear and doubt and infuse a person with confidence and emotional strength. Dried yarrow can be placed underneath a pillow to ensure relaxing sleep and insightful dreams. Yarrow plant infusions can be added to a spiritual bath to uplift a person’s natural spiritual energies and enhance psychic abilities. Dried yarrow is also burned as incense to attract vibrations of peace, love, and satisfaction into a home.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "灵性",
+   "勇气",
+   "平和"
+  ]
+ },
+ {
+  "name": "Yellow Dock",
+  "latin": "Rumex crispus",
+  "desc": "Yellow dock is a perennial flowering herb that is native to Europe and West Asia. Yellow dick is used in spells to improve fertility and enhance spiritual healing. Bits of yellow dock leaves can be kept in a wallet to attract money and abundance. Yellow dock can also be included in a floor wash to scrub a place of business to eradicate negative spiritual energies and attract specific auras of prosperity and wealth. This floor wash helps to attract customers and patrons to the business. When used to wash the face before dawn, a solution of yellow dock in water helps to attract the desired lover. In hoodoo herbal folk medicine, yellow dock is used to cure inflammations and clear nasal congestions. An infusion of yellow dock leaves is also used to soothe an upset stomach and eradicate sexually transmitted diseases.",
+  "alias": "",
+  "intents": [
+   "爱情",
+   "财富",
+   "疗愈",
+   "生育",
+   "灵性",
+   "性"
+  ]
+ },
+ {
+  "name": "Yerba Santa",
+  "latin": "Eriodictyon californicum",
+  "desc": "Yerba Santa is native to North America and is usually found blooming in fields in Oregon and California. Yerba Santa is an evergreen herb commonly used in illusion spells. Therefore, if you are trying to confuse a person or hide a secret from them, using Yerba Santa helps to create a perfect illusion that prevents them from understanding your true intentions. Yerba Santa is also commonly included in the hoodoo altar to enhance psychic abilities and achieve insightful divinations. The herb is also used in spiritual baths to achieve thorough cleansing of the mind. In hoodoo folk medicine, Yerba Santa is used to make an infusion used to treat coughs, tuberculosis, and respiratory blockages.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "净化",
+   "灵性",
+   "智力"
+  ]
+ },
+ {
+  "name": "Yucca",
+  "latin": "Yucca glauca",
+  "desc": "Yucca is a perennial herb with fibrous, rigid leaves and narrow, pointed leaves with small thorny projections on the sides. Yucca grows best on arid lands and is believed to be native to the Mojave Desert. Yucca blooms in the Middle East and parts of North America. Yucca leaves can be braided into a hoop and placed on the altar to enhance psychic abilities and achieve clearer divinations. The root of the herb can also be included in a spiritual bath to wash away auras of doubt and negativity and imbue you with confidence and self-assuredness. A wreath of yucca in front of the door of a home helps to prevent unwanted visitors and negative spiritual forces from gaining access to the home. Yucca is used in hoodoo folk medicine to cure dandruff and treat skin infections. A decoction made from the root helps to ease childbirth pains and enhances speedy expulsion of the placenta. A poultice made from the yucca root also arrests bleeding and accelerates the healing of open wounds.",
+  "alias": "",
+  "intents": [
+   "疗愈",
+   "净化",
+   "生育",
+   "灵性"
+  ]
+ }
+]
