@@ -10,10 +10,27 @@
 <nav>
   <div class="nav-inner">
     <a href="../index.html" class="brand"><img src="../img/logo.png" alt="High John's Table" class="logo"></a>
-    <div class="nav-links">
-      <a href="history.html">历史</a><a href="herbs.html">草药</a><a href="candles.html">蜡烛</a><a href="mojo.html">Mojo</a><a href="ritual.html">仪式</a><a href="tools.html">工具</a><a href="spells.html">咒语</a><a href="psalms.html">诗篇</a><a href="ethics.html">伦理</a>
+    <button class="nav-toggle" id="navToggle" aria-label="菜单" onclick="toggleNav(event)">
+      <span class="bar"></span><span class="bar"></span><span class="bar"></span>
+    </button>
+  </div>
+  <div class="nav-menu" id="navMenu">
+    <div class="menu-inner">
+      <a href="../index.html">首页</a>
+      <a href="history.html">历史</a>
+      <a href="beliefs.html">信仰</a>
+      <a href="ritual.html">仪式</a>
+      <a href="herbs.html">草药</a>
+      <a href="tools.html">工具</a>
+      <a href="mojo.html">Mojo</a>
+      <a href="candles.html">蜡烛</a>
+      <a href="spells.html">咒语</a>
+      <a href="divination.html">占卜</a>
+      <a href="psalms.html">诗篇</a>
+      <a href="ethics.html">伦理</a>
     </div>
   </div>
+  <div class="nav-overlay" id="navOverlay" onclick="toggleNav(event)"></div>
 </nav>
 <div class="content">
   <h1>咒语大全</h1>
@@ -212,5 +229,27 @@
   <p>仅供教育目的</p>
   <p><a href="../index.html">High John's Table</a></p>
 </footer>
+
+<script>
+function toggleNav(e){
+  if(e && e.stopPropagation) e.stopPropagation();
+  var m=document.getElementById('navMenu');
+  var t=document.getElementById('navToggle');
+  var o=document.getElementById('navOverlay');
+  if(!m) return;
+  var open=m.classList.toggle('open');
+  if(t)t.classList.toggle('active',open);
+  if(o)o.classList.toggle('show',open);
+}
+document.addEventListener('click',function(e){
+  var m=document.getElementById('navMenu');
+  var t=document.getElementById('navToggle');
+  if(m && t && m.classList.contains('open') && !m.contains(e.target) && !t.contains(e.target)){
+    m.classList.remove('open');
+    t.classList.remove('active');
+    var o=document.getElementById('navOverlay'); if(o)o.classList.remove('show');
+  }
+});
+</script>
 </body>
 </html>

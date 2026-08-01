@@ -603,6 +603,94 @@ footer a:hover { color: #000; }
 }
 
 /* ==========================================================================
+   汉堡菜单导航（Hamburger Menu）
+   ========================================================================== */
+
+.nav-toggle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 42px;
+  height: 42px;
+  padding: 10px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+.nav-toggle:hover { background: #f2f2f2; }
+.nav-toggle .bar {
+  display: block;
+  height: 2px;
+  width: 100%;
+  background: #1a1a1a;
+  border-radius: 2px;
+  transition: transform 0.25s, opacity 0.2s;
+}
+/* 打开时变 X */
+.nav-toggle.active .bar:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.nav-toggle.active .bar:nth-child(2) { opacity: 0; }
+.nav-toggle.active .bar:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+.nav-menu {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.3s ease, opacity 0.25s ease;
+  background: rgba(255,255,255,0.97);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-top: 1px solid #f0f0f0;
+}
+.nav-menu.open {
+  max-height: 480px;
+  opacity: 1;
+}
+.nav-menu .menu-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 10px 24px 18px;
+  display: flex;
+  flex-direction: column;
+}
+.nav-menu a {
+  font-family: 'Noto Serif SC', serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: #1a1a1a;
+  text-decoration: none;
+  padding: 13px 6px;
+  border-bottom: 1px solid #f2f2f2;
+  letter-spacing: -0.2px;
+  transition: color 0.2s, padding-left 0.2s;
+}
+.nav-menu a:last-child { border-bottom: none; }
+.nav-menu a:hover { color: #555; padding-left: 12px; }
+.nav-menu a small {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  color: #bbb;
+  letter-spacing: 0.3px;
+  margin-left: 8px;
+  text-transform: none;
+}
+.nav-menu a.active { color: #000; font-weight: 600; }
+
+/* 点击菜单外关闭 */
+.nav-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.15);
+  z-index: 90;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s;
+}
+.nav-overlay.show { opacity: 1; pointer-events: auto; }
+
+/* ==========================================================================
    M1 扩展组件 — 实践知识库
    Recipe cards, ingredient lists, steps, tone tags, warnings, TOC, search
    ========================================================================== */
